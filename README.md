@@ -9,7 +9,7 @@ Plugins
 -------
 
 * https://github.com/vinod8990/godot_plugins
-    * Contains **Resolution Switcher**
+    * Contains **Resolution Switcher**.
 
 Scripts
 -------
@@ -18,8 +18,10 @@ Scripts
 
 * **Add Primitives:** https://github.com/TheHX/add_primitives
 
-* https://github.com/ScyDev/Godot-Scripts
-    * Contains **Polygon Merge**
+* **Tiled Importer:** https://github.com/MrGreenTea/GodotTiledImporter
+
+* **Polygon Merge:** https://github.com/ScyDev/Godot-Scripts
+
 
 GDScript syntax highlighting support
 ---------------------------
@@ -29,7 +31,7 @@ GDScript syntax highlighting support
 * **Gedit:** https://github.com/haimat/GDScript-gedit
 
 * **Atom:** https://github.com/jlopezcur/language-gdscript
-    * Not present on atom.io, install it manually
+    * Not present on atom.io, install it manually.
 
 * **Vim:** https://github.com/quabug/vim-gdscript
 
@@ -42,4 +44,4 @@ Other
     * Updates all Git repositories contained in a directory.
 
 * **godot-wrapper:** https://github.com/nsrosenqvist/godot-wrapper.git
-    * Script that helps Debian and Ubuntu users install and use Godot
+    * Script that helps Debian and Ubuntu users install and use Godot.
