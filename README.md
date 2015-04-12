@@ -8,40 +8,36 @@ Want to contribute to this list? Read [CONTRIBUTING.md](https://github.com/Calin
 Plugins
 -------
 
-* **Resolution Switcher:** https://github.com/vinod8990/godot_plugins
+*Stuff integrated into Godot core more or less.*
+
+* [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
 
 Scripts
 -------
 
-* **Add Primitives:** https://github.com/TheHX/add_primitives
+*Scripts that let you do new stuff, or enhance Godot functionality.*
 
-* **Heightmap:** https://gist.github.com/Calinou/e771fcbc26a87b807f7f
+* [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+* [Heightmap](https://gist.github.com/Calinou/e771fcbc26a87b807f7f) - Make an heightmap into terrain.
+* [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+* [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
+* [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
-* **Polygon Merge:** https://github.com/ScyDev/Godot-Scripts
+GDScript syntax highlighting
+----------------------------
 
-* **Tiled Importer:** https://github.com/MrGreenTea/GodotTiledImporter
+*Add-ons for text editors that add syntax highlighting to GDscript.*
 
-* **Tileset Builder:** https://gist.github.com/Calinou/27e979ab0a35500c3381
-
-GDScript syntax highlighting support
----------------------------
-
-* **Atom:** https://github.com/jlopezcur/language-gdscript
-    * Not present on atom.io, install it manually.
-
-* **Geany:** https://github.com/haimat/GDScript-Geany
-
-* **Gedit:** https://github.com/haimat/GDScript-gedit
-
-* **Sublime Text:** https://github.com/beefsack/GDScript-sublime
-
-* **Vim:** https://github.com/quabug/vim-gdscript
+* [Atom](https://github.com/jlopezcur/language-gdscript) - Not present on atom.io, install it manually.
+* [Geany](https://github.com/haimat/GDScript-Geany)
+* [Gedit](https://github.com/haimat/GDScript-gedit)
+* [Sublime Text](https://github.com/beefsack/GDScript-sublime)
+* [Vim](https://github.com/quabug/vim-gdscript)
 
 Other
 -----
 
-* **godot-wrapper:** https://github.com/nsrosenqvist/godot-wrapper.git
-    * Script that helps Debian and Ubuntu users install and use Godot.
+*Other stuff.*
 
-* **update-git.sh:** https://gist.github.com/Calinou/93938dc92484bc5e89f0
-    * Updates all Git repositories contained in a directory.
+* [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
+* [update-git.sh](https://gist.github.com/Calinou/93938dc92484bc5e89f0) - Updates all Git repositories contained in a directory.
