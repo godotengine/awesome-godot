@@ -5,21 +5,24 @@ A curated list of free/libre plugins, add-ons and scripts for [Godot](http://god
 
 Want to contribute to this list? Read [CONTRIBUTING.md](https://github.com/Calinou/awesome-godot/blob/master/CONTRIBUTING.md) first.
 
-Plugins
+For installation instructions, read [INSTALL.md](https://github.com/Calinou/awesome-godot/blob/master/INSTALL.md).
+
+Modules
 -------
 
-*Stuff integrated into Godot core more or less.*
+*Stuff integrated into Godot core (C++).*
 
-* [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
+Nothing for now.
 
-Scripts
--------
+Plugins and scripts
+-------------------
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 * [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 * [Heightmap](https://gist.github.com/Calinou/e771fcbc26a87b807f7f) - Make an heightmap into terrain.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+* [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
 * [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
 * [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
