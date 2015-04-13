@@ -4,8 +4,8 @@ How to install plugins
 Paths
 -----
 
-GNU/Linux: `~/.godot/plugins`
-Windows: `%APPDATA%/Godot/plugins`
+* GNU/Linux: `~/.godot/plugins`
+* Windows: `%APPDATA%/Godot/plugins`
 
 Enabling
 --------
