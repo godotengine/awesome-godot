@@ -43,6 +43,8 @@ Other
 
 *Other stuff.*
 
-* [get-godot](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches git master branch.
+* [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches git master branch.
 * [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
+* [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
+* [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 * [update-git.sh](https://gist.github.com/Calinou/93938dc92484bc5e89f0) - Updates all Git repositories contained in a directory.
