@@ -23,6 +23,7 @@ Plugins and scripts
 * [Heightmap](https://gist.github.com/Calinou/e771fcbc26a87b807f7f) - Make an heightmap into terrain.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 * [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
+* [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support (Windows and Linux)
 * [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
 * [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
@@ -42,5 +43,8 @@ Other
 
 *Other stuff.*
 
+* [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches git master branch.
 * [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
+* [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
+* [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 * [update-git.sh](https://gist.github.com/Calinou/93938dc92484bc5e89f0) - Updates all Git repositories contained in a directory.
