@@ -1,11 +1,25 @@
 Awesome Godot
 =============
 
-A curated list of free/libre plugins, add-ons and scripts for [Godot](http://godotengine.org).
+A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](http://godotengine.org).
 
 Want to contribute to this list? Read [CONTRIBUTING.md](https://github.com/Calinou/awesome-godot/blob/master/CONTRIBUTING.md) first.
 
 For installation instructions, read [INSTALL.md](https://github.com/Calinou/awesome-godot/blob/master/INSTALL.md).
+
+Games
+-----
+
+*Games that use Godot.*
+
+### 2D
+
+* [Minilens](http://alketii.github.io/minilens/) - Free puzzle platform game.
+* [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
+
+### 3D
+
+Nothing for now.
 
 Modules
 -------
@@ -23,7 +37,7 @@ Plugins and scripts
 * [Heightmap](https://gist.github.com/Calinou/e771fcbc26a87b807f7f) - Make an heightmap into terrain.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 * [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
-* [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support (Windows and Linux)
+* [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 * [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
 * [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
