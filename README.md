@@ -35,7 +35,7 @@ Plugins and scripts
 
 * [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 * [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
-* [Heightmap](https://gist.github.com/Calinou/e771fcbc26a87b807f7f) - Make an heightmap into terrain.
+* [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 * [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
 * [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
