@@ -35,6 +35,7 @@ Plugins and scripts
 
 * [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 * [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
+* [GUT](https://bitbucket.org/bitwes/gut/overview) Utility for writing unit tests in Godot's scripting language.
 * [Heightmap](https://gist.github.com/Calinou/e771fcbc26a87b807f7f) - Make an heightmap into terrain.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 * [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
