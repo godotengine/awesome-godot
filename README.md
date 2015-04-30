@@ -37,6 +37,7 @@ Plugins and scripts
 * [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 * [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
 * [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
+* [Input states](http://pastebin.com/LuSg4wY2) - Input states for Godot.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 * [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
 * [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
