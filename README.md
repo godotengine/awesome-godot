@@ -34,6 +34,7 @@ Plugins and scripts
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 * [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+* [Color Picker](https://github.com/TeddyDD/godot-ColorPicker) - A color picker integrated into Godot.
 * [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 * [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
 * [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
