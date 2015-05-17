@@ -40,6 +40,7 @@ Plugins and scripts
 * [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
 * [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 * [Input states](http://pastebin.com/LuSg4wY2) - Input states for Godot.
+* [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 * [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 * [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
 * [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
