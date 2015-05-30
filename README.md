@@ -21,6 +21,21 @@ Games
 
 Nothing for now.
 
+Demos
+-----
+
+*Demos to learn GDScript, its concepts, and various game features.*
+
+* [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
+* [TCP Networked physics](https://github.com/jrimclean/network-demo-tcp) - Lets you connect to a server and view networked physics.
+
+Themes
+------
+
+*Themes for your Godot games or user interface.*
+
+* [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
+
 Modules
 -------
 
