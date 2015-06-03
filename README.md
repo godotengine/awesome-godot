@@ -7,6 +7,8 @@ Want to contribute to this list? Read [CONTRIBUTING.md](https://github.com/Calin
 
 For installation instructions, read [INSTALL.md](https://github.com/Calinou/awesome-godot/blob/master/INSTALL.md).
 
+This list is part of [awesome](https://github.com/sindresorhus/awesome), a curated list of awesome lists.
+
 Games
 -----
 
