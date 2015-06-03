@@ -16,7 +16,7 @@ Games
 
 ### 2D
 
-* [Minilens](http://alketii.github.io/minilens/) - Free puzzle platform game.
+* [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 
 ### 3D
