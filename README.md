@@ -45,7 +45,8 @@ Modules
 
 *Stuff integrated into Godot core (C++).*
 
-Nothing for now.
+* [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
+* [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 
 Plugins and scripts
 -------------------
