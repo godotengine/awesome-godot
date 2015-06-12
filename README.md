@@ -16,6 +16,7 @@ Games
 
 ### 2D
 
+* [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe
 * [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 
@@ -44,7 +45,8 @@ Modules
 
 *Stuff integrated into Godot core (C++).*
 
-Nothing for now.
+* [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
+* [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 
 Plugins and scripts
 -------------------
