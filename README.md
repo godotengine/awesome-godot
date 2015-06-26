@@ -47,6 +47,7 @@ Modules
 
 * [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 * [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+* [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray
 
 Plugins and scripts
 -------------------
