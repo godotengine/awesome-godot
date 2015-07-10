@@ -31,6 +31,7 @@ Demos
 
 * [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 * [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
+* [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) A demo project demonstrating pathfinding using a tilemap.
 * [TCP Networked physics](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 
 Themes
