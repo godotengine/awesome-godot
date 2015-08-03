@@ -18,6 +18,7 @@ Games
 
 * [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to diffuse them.
 * [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe
+* [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 * [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 
