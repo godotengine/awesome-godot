@@ -20,6 +20,7 @@ Games
 * [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe
 * [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 * [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
+* [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 
 ### 3D
