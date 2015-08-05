@@ -1,13 +1,10 @@
-How to install plugins
-======================
+# How to install plugins
 
-Paths
------
+## Paths
 
 * GNU/Linux: `~/.godot/plugins`
 * Windows: `%APPDATA%/Godot/plugins`
 
-Enabling
---------
+## Enabling
 
-Go to Editor settings, then make sure the plugin is enabled. You might need to restart Godot after enabling it.
+Go to the **Editor Settings**, then make sure the plugin is enabled. You might need to restart Godot after enabling it.

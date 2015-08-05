@@ -1,5 +1,4 @@
-Contributing to the list
-========================
+# Contributing to the list
 
 **Pull requests are welcome**, but keep this in mind:
 
