@@ -15,6 +15,7 @@ This list is part of [awesome](https://github.com/sindresorhus/awesome), a curat
 ### 2D
 
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to diffuse them.
+- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone  
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
