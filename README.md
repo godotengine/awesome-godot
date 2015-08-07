@@ -2,11 +2,7 @@
 
 A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](http://godotengine.org).
 
-Want to contribute to this list? Read [CONTRIBUTING.md](https://github.com/Calinou/awesome-godot/blob/master/CONTRIBUTING.md) first.
-
 For installation instructions, read [INSTALL.md](https://github.com/Calinou/awesome-godot/blob/master/INSTALL.md).
-
-This list is part of [awesome](https://github.com/sindresorhus/awesome), a curated list of awesome lists.
 
 ## Games
 
@@ -14,8 +10,9 @@ This list is part of [awesome](https://github.com/sindresorhus/awesome), a curat
 
 ### 2D
 
+- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to diffuse them.
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
@@ -45,10 +42,10 @@ Nothing for now.
 
 *Stuff integrated into Godot core (C++).*
 
-- [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot
+- [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
-- [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray
+- [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
 
 ## Plugins and scripts
 
