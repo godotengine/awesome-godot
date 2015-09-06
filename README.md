@@ -16,6 +16,8 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
+- [Ninja-Training
+](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge. 
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 
