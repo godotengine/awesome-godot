@@ -57,6 +57,7 @@ Nothing for now.
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 - [Color Picker](https://github.com/TeddyDD/godot-ColorPicker) - A color picker integrated into Godot.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
+- [Dialog generator](https://github.com/leezh/gdscript-dialogue) - Plugin to generate dialogs in GdScript
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
 - [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
@@ -79,6 +80,12 @@ Nothing for now.
 - [Gedit](https://github.com/haimat/GDScript-gedit)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
+
+## Tutorials
+
+*Tutorial for Godot Engine*
+
+- [10 video tutorials](https://github.com/ndee85/godot_tutorial_series)
 
 ## Other
 
