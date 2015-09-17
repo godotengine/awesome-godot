@@ -47,6 +47,7 @@ Nothing for now.
 *Stuff integrated into Godot core (C++).*
 
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
+- [GLSL while loop](https://github.com/sheepandshepherd/godot-glsl-while) - A while loop for shaders in Godot Engine
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
