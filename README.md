@@ -18,7 +18,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Ninja-Training
-](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge. 
+](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
@@ -62,6 +62,7 @@ Nothing for now.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
+- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
 - [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [Input states](http://pastebin.com/LuSg4wY2) - Input states for Godot.
