@@ -10,6 +10,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 ### 2D
 
+- [ANSiTURE](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to diffuse them.
@@ -17,6 +18,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
+- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
 - [Ninja-Training
 ](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
