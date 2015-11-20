@@ -10,6 +10,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 ### 2D
 
+- [ANSiTURE](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to diffuse them.
