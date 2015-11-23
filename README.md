@@ -28,7 +28,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 ### 3D
 
-Nothing for now.
+- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
 
 ## Demos
 
@@ -80,7 +80,7 @@ Nothing for now.
 
 *Add-ons for text editors that add syntax highlighting to GDscript.*
 
-- [Atom](https://github.com/jlopezcur/language-gdscript) - Not present on atom.io, install it manually.
+- [Atom](https://atom.io/packages/lang-gdscript)
 - [Geany](https://github.com/haimat/GDScript-Geany)
 - [Gedit](https://github.com/haimat/GDScript-gedit)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
