@@ -86,6 +86,13 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
 
+## Unofficial builds of Godot
+
+*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
+
+- [Calinou's nightly builds](http://archive.hugo.pro/godot/)
+- [Fixnum's nightly builds](http://fixnum.org/godot/)
+
 ## Other
 
 *Other stuff.*
