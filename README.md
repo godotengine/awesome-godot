@@ -92,6 +92,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 - [Calinou's nightly builds](http://archive.hugo.pro/godot/)
 - [Fixnum's nightly builds](http://fixnum.org/godot/)
+- [Purple Orange Games' nightly builds](http://purpleorangegames.com/godot/)
 
 ## Other
 
