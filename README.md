@@ -40,6 +40,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - MineCraft like voxel terrain
 
 ## Themes
 
