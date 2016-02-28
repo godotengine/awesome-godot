@@ -23,6 +23,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 ](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
+- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 
@@ -39,6 +40,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - MineCraft like voxel terrain
 
 ## Themes
 
@@ -60,10 +62,12 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+- [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
 - [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
