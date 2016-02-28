@@ -62,11 +62,12 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
-- [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D. 
+- [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
 - [GUT](https://bitbucket.org/bitwes/gut/overview) - Utility for writing unit tests in GDScript.
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
