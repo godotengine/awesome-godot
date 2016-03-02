@@ -35,6 +35,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
+- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing Cellular Automata Method
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
