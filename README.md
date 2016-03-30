@@ -17,6 +17,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
+- [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
 - [Ninja-Training
