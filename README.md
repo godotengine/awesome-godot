@@ -27,9 +27,12 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
+- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016
 
 ### 3D
 
+- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A Game for Godot Engine Jam 03/2016
+- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
 - [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
 
 ## Demos
