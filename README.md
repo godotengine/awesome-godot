@@ -68,6 +68,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker) and [Attila](https://github.com/r-lyeh/attila)
 - [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
@@ -84,6 +85,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
+- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) with all features supported.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
 ## GDScript syntax highlighting
@@ -91,10 +93,13 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Add-ons for text editors that add syntax highlighting to GDscript.*
 
 - [Atom](https://atom.io/packages/lang-gdscript)
+- [Chester](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
 - [Geany](https://github.com/haimat/GDScript-Geany)
 - [Gedit](https://github.com/haimat/GDScript-gedit)
+- [Gl-light](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
+
 
 ## Unofficial builds of Godot
 
