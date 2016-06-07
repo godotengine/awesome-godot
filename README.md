@@ -59,9 +59,10 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Stuff integrated into Godot core (C++).*
 
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
-- [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
 
 ## Plugins and scripts
 
