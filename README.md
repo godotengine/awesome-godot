@@ -89,6 +89,14 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) with all features supported.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
+## Tutorials
+Tutorials on specific features or generally about Godot
+
+### Video tutorials
+
+- [Andreas Esau](https://www.youtube.com/playlist?list=PLPI26-KXCXpBtZGRJizz0cvU88nXB-G14) - Godot introduction series created by Andreas Esau
+- [GameFromScratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyAXRl-_ktrebQBFxjSQt7UX) - tutorial series created by GameFromScratch
+
 ## GDScript syntax highlighting
 
 *Add-ons for text editors that add syntax highlighting to GDscript.*
