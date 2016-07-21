@@ -90,6 +90,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
 - [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) with all features supported.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
+- [Simple Adventure API](https://github.com/Qudware/godot-adventure-api) - Create Adventure/VN/IF games with a simple API
 
 ## GDScript syntax highlighting
 
