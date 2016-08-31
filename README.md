@@ -97,12 +97,16 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Add-ons for text editors that add syntax highlighting to GDscript.*
 
 - [Atom](https://atom.io/packages/lang-gdscript)
-- [Chester](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
 - [Geany](https://github.com/haimat/GDScript-Geany)
 - [Gedit](https://github.com/haimat/GDScript-gedit)
-- [Gl-light](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
+
+## Godot text editor color themes
+
+*Alternative themes for built-in text editor.*
+
+- [Chester, Google code light and Monokai](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
 
 
 ## Unofficial builds of Godot
