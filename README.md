@@ -107,6 +107,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Alternative themes for built-in text editor.*
 
 - [Chester, Google code light and Monokai](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
 
 
 ## Unofficial builds of Godot
