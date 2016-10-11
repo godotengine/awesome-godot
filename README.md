@@ -10,11 +10,12 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 ### 2D
 
-- [ANSiTURE](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters
+- [ANSiTURE](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to diffuse them.
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - platformer game made for the A Game By It's Cover 2015 Game Jam
+- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
+- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
