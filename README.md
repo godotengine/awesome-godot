@@ -75,6 +75,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
