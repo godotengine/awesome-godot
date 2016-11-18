@@ -70,7 +70,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
-- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker) and [Attila](https://github.com/r-lyeh/attila)
+- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://github.com/Calinou/kenney)
 - [Auto Tile Layer](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
 - [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
@@ -100,10 +100,8 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Add-ons for text editors that add syntax highlighting to GDscript.*
 
 - [Atom](https://atom.io/packages/lang-gdscript)
-- [Chester](https://github.com/Geequlim/godot-themes/tree/master/syntax)
 - [Geany](https://github.com/haimat/GDScript-Geany)
 - [Gedit](https://github.com/haimat/GDScript-gedit)
-- [Google Light](https://github.com/Geequlim/godot-themes/tree/master/syntax)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
 
@@ -111,7 +109,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 *Alternative themes for built-in text editor.*
 
-- [Chester, Google code light and Monokai](https://github.com/Geequlim/godot-code/tree/master/styles/syntax)
+- [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google code light and Monokai
 - [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
 
 
