@@ -52,6 +52,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 *Themes for your Godot games or user interface.*
 
+- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes)
 - [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
 
 ## Modules
@@ -90,7 +91,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
-- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) with all features supported.
+- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) for godot 2.1.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 - [Simple Adventure API](https://github.com/Qudware/godot-adventure-api) - Create Adventure/VN/IF games with a simple API
 
@@ -99,8 +100,10 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 *Add-ons for text editors that add syntax highlighting to GDscript.*
 
 - [Atom](https://atom.io/packages/lang-gdscript)
+- [Chester](https://github.com/Geequlim/godot-themes/tree/master/syntax)
 - [Geany](https://github.com/haimat/GDScript-Geany)
 - [Gedit](https://github.com/haimat/GDScript-gedit)
+- [Google Light](https://github.com/Geequlim/godot-themes/tree/master/syntax)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
 
