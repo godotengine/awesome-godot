@@ -15,6 +15,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
+- [Couple-quest](https://github.com/Couple-quest/Couple-quest) - Couple foreplay game.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
