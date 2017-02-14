@@ -104,6 +104,7 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [Gedit](https://github.com/haimat/GDScript-gedit)
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime)
 - [Vim](https://github.com/quabug/vim-gdscript)
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot text editor color themes
 
