@@ -1,8 +1,6 @@
 # Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](http://godotengine.org).
-
-For installation instructions, read [INSTALL.md](https://github.com/Calinou/awesome-godot/blob/master/INSTALL.md).
+A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
 ## Games
 
@@ -118,9 +116,9 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
 
-- [Calinou's nightly builds](http://archive.hugo.pro/godot/)
+- [Calinou's nightly builds](https://archive.hugo.pro/godot/)
 - [Fixnum's nightly builds](http://fixnum.org/godot/)
-- [Purple Orange Games' nightly builds](http://purpleorangegames.com/godot/)
+- [Purple Orange Games' nightly builds](https://purpleorangegames.com/filesGodot/)
 
 ## Other
 
@@ -131,4 +129,3 @@ For installation instructions, read [INSTALL.md](https://github.com/Calinou/awes
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
-- [update-git.sh](https://gist.github.com/Calinou/93938dc92484bc5e89f0) - Updates all Git repositories contained in a directory.
