@@ -69,9 +69,9 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
-- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://github.com/Calinou/kenney)
+- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets)
 - [Auto Tile Layer](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
-- [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
+- [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing
@@ -117,15 +117,14 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
 
-- [Calinou's nightly builds](https://archive.hugo.pro/godot/)
-- [Fixnum's nightly builds](http://fixnum.org/godot/)
-- [Purple Orange Games' nightly builds](https://purpleorangegames.com/filesGodot/)
+- [Calinou's builds](https://godot.hugo.pro/)
+- [Digitecnology's builds](http://godot3builds.digitecnology.com/)
 
 ## Other
 
 *Other stuff.*
 
-- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches git master branch.
+- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
