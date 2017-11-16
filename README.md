@@ -105,15 +105,15 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Vim](https://github.com/quabug/vim-gdscript)
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
-## Godot text editor color themes
+## Godot script editor syntax themes
 
-*Alternative themes for built-in text editor.*
+*Alternative themes for the built-in script editor.*
 
-- [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google code light and Monokai
-- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
+- [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
 
 
-## Unofficial builds of Godot
+## Unofficial Godot builds
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
 
@@ -124,6 +124,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Other stuff.*
 
+- [`gd-com` npm package](https://www.npmjs.com/package/gd-com) - Communicate with Godot clients using Node.js.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
