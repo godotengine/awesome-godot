@@ -112,12 +112,11 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai
 - [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Darcula, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
 
-
 ## Unofficial Godot builds
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
 
-- [Calinou's builds](https://godot.hugo.pro/)
+- ~~[Calinou's builds](https://godot.hugo.pro/)~~ - *Currently unavailable.*
 - [Digitecnology's builds](http://godot3builds.digitecnology.com/)
 
 ## Other
