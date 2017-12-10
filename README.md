@@ -58,7 +58,10 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Stuff integrated into Godot core (C++).*
 
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high performance multiplayer games with Godot.
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
+- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
