@@ -117,9 +117,9 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 ## Unofficial Godot builds
 
-*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones, use at your own risk.*
+*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
-- ~~[Calinou's builds](https://godot.hugo.pro/)~~ - *Currently unavailable.*
+- [Calinou's builds](https://godot.hugo.pro/)
 - [Digitecnology's builds](http://godot3builds.digitecnology.com/)
 
 ## Other
