@@ -90,6 +90,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 - [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
