@@ -80,6 +80,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
+- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
