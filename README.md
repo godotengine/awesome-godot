@@ -63,10 +63,12 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in godot game engine.
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
+- [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for godot game engine
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
-
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
@@ -80,6 +82,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - FontAwesome plugin for godot game engine
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for godot game engine writing in gdscript
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
