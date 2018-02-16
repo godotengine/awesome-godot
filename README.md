@@ -1,5 +1,7 @@
 # Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+***This branch contains the legacy version, which lists projects for both Godot 3.0 and 2.1. Please check the [master branch](https://github.com/Calinou/awesome-godot/tree/master) for an updated version containing projects made for Godot 3.0.***
+
 A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
 ## Games
