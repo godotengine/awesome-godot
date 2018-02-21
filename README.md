@@ -12,6 +12,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
+- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0.
 - [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
