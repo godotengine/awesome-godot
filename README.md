@@ -70,6 +70,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 - [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
+- [Firebase for android](https://github.com/xsellier/godotandroid)
 
 ## Plugins and scripts
 
