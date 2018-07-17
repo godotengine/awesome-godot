@@ -86,6 +86,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework.
 - [Example Model Importer](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
+- [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
