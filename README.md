@@ -34,7 +34,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 ### 3D
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
-- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018. 
+- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
 - [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
 - [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
 
@@ -132,7 +132,6 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
 - [Calinou's builds](https://godot.hugo.pro/)
-- [Digitecnology's builds](http://godot3builds.digitecnology.com/)
 
 ## Other
 
