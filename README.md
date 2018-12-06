@@ -1,6 +1,6 @@
 # Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
+A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
 ## Games
 
@@ -27,7 +27,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
-- [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
+- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
@@ -46,8 +46,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
-- [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
-- [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+- [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
+- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 - [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
 
@@ -66,22 +66,22 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine.
-- [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
+- [Gdnet](https://github.com/empyreanx/gdnet) - An ENet wrapper for Godot.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
-- [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-- [WaterSplash 2D node](https://github.com/laverneth/WaterSplash)
+- [WaterSplash 2D node](https://github.com/laverneth/water)
 
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
 - [Add Primitives](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
-- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - Plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets).
+- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - Plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh-archived/attila) and [Kenney Assets](https://kenney.nl/assets).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images.
@@ -106,8 +106,8 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
-- [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
-- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) for Godot 2.1.
+- [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](https://www.mapeditor.org/).
+- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](https://www.mapeditor.org/) for Godot 2.1.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
 - [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API (precursor to [this](https://github.com/Biarity/Godot-Adventure-Framework)).
@@ -143,7 +143,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [`gd-com` npm package](https://www.npmjs.com/package/gd-com) - Communicate with Godot clients using Node.js.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
-- [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
+- [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
