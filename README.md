@@ -49,6 +49,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
+- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
 
 ## Themes
 
@@ -63,6 +64,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine.
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
