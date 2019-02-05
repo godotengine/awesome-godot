@@ -8,7 +8,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### 2D
 
-- [ANSiTURE](https://github.com/w84death/ansiture) -  Adventure platformer using only text-based (DOS ANSI) characters.
+- [ANSiTURE](https://github.com/w84death/ansiture) - Proof of Concept ANSi rendering in Godot Engine (Godot 2.1)
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
@@ -25,6 +25,8 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
+- [Open JRPG](https://github.com/GDquest/godot-open-rpg) - Example for JRPG style game (Godot 3.1).
+- [Open ARPG](https://github.com/GDquest/make-pro-2d-games-with-godot/) - Example for ARPG style game (Godot 3.0)
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
@@ -147,3 +149,4 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
+- [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - YouTube with Godot tutorials. Regularily updated.
