@@ -114,15 +114,15 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
 - [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - Create Adventure/VN/IF games with a simple API (precursor to [this](https://github.com/Biarity/Godot-Adventure-Framework)).
 
-## GDScript syntax highlighting
+## GDScript editor support
 
-*Add-ons for text editors that add syntax highlighting to GDscript.*
+*Add-ons for text editors that implement GDscript support.*
 
-- [Atom](https://atom.io/packages/lang-gdscript)
-- [Geany](https://github.com/haimat/GDScript-Geany)
-- [Gedit](https://github.com/haimat/GDScript-gedit)
-- [Sublime Text](https://github.com/beefsack/GDScript-sublime)
-- [Vim](https://github.com/quabug/vim-gdscript)
+- [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
+- [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
+- [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
+- [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
+- [Vim](https://github.com/calviken/vim-gdscript3) - Syntax highlighting, autocompletion and linting. Also supports the Godot shader language.
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot script editor syntax themes
