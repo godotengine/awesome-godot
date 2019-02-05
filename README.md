@@ -8,7 +8,6 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### 2D
 
-- [ANSiTURE](https://github.com/w84death/ansiture) -  Adventure platformer using only text-based (DOS ANSI) characters.
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
