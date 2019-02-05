@@ -8,7 +8,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### 2D
 
-- [ANSiTURE](https://github.com/w84death/ansiture) - Proof of Concept ANSi rendering in Godot Engine (Godot 2.1)
+- [ANSiTURE](https://github.com/w84death/ansiture) - Proof of Concept ANSI rendering in Godot Engine (Godot 2.1)
 - [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
