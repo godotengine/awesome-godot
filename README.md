@@ -1,4 +1,4 @@
-# Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
