@@ -2,6 +2,20 @@
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
+## Contents
+
+- [Games](#games)
+  - [2D](#2d)
+  - [3D](#3d)
+- [Demos](#demos)
+- [Themes](#themes)
+- [Modules](#modules)
+- [Plugins and scripts](#plugins-and-scripts)
+- [GDScript editor support](#gdscript-editor-support)
+- [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
+- [Unofficial Godot builds](#unofficial-godot-builds)
+- [Other](#other)
+
 ## Games
 
 *Games that use Godot.*
