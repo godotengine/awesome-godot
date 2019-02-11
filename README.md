@@ -10,6 +10,9 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
   - [2D](#2d)
   - [3D](#3d)
 - [Demos](#demos)
+- [Tutorials](#tutorials)
+  - [Text tutorials](#text-tutorials)
+  - [Video tutorials](#video-tutorials)
 - [Themes](#themes)
 - [Modules](#modules)
 - [Plugins and scripts](#plugins-and-scripts)
@@ -68,6 +71,24 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 - [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
+
+## Tutorials
+
+*A more complete list can be found in
+[this Reddit thread](https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/).*
+
+### Text tutorials
+
+- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction to Godot.
+
+### Video tutorials
+
+- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
+- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
+- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
+- [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
+- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
 
 ## Themes
 
