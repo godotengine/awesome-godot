@@ -1,0 +1,13 @@
+language: ruby
+
+rvm:
+  - "2.6.1"
+
+install: |
+  pyenv global 3.6.3
+  pip3 install --user pre-commit
+  gem install awesome_bot
+
+script: |
+  "$HOME/.local/bin/pre-commit" run --all-files
+  awesome_bot --files "README.md" --white-list "https://awesome.re,https://godotengine.org"
