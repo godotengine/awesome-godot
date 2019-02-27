@@ -27,7 +27,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### 2D
 
-- [Blipshift](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
+- [Blipshift](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game (Godot 3.1).
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0.
