@@ -67,6 +67,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0).
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
+- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - Realistic 3D water shader with foam and caustics.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
