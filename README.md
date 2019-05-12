@@ -130,6 +130,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
 - [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue).
