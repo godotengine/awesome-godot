@@ -141,7 +141,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
-- [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](https://www.mapeditor.org/).
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/).
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
 
