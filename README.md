@@ -82,6 +82,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction to Godot.
+- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform.
 
 ### Video tutorials
 
