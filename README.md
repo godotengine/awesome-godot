@@ -88,6 +88,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
 - [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Tutorial series about creating a 3D game.
+- [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
 - [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development.
