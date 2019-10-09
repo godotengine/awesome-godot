@@ -28,50 +28,50 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 ### 2D
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game (Godot 3.1).
-- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone.
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
-- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game. Compatible with Godot 3.0.
-- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
-- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam.
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
-- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game.
-- [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
-- [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone.
-- [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
-- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
-- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
-- [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
-- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game.
-- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects.
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
-- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
+- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone (Godot 2.1).
+- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
+- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
+- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
+- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players (Godot 2.1).
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam (Godot 2.1).
+- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
+- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
+- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game (Godot 1).
+- [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
+- [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone (Godot 2.1).
+- [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game (Godot 2.1).
+- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015) (Godot 2.1).
+- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge (Godot 2.1).
+- [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
+- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
+- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game (Godot 2.1).
+- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects (Godot 2.1).
+- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game (Godot 2.1).
+- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016 (Godot 2.1).
 
 ### 3D
 
-- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
-- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.
-- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
-- [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
+- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
+- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
+- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish (Godot 2.0).
+- [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.1).
+- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level (Godot 2.0).
 
 ## Demos
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
-- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method.
-- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
-- [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
+- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method (Godot 2.0).
+- [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting (Godot 2.1).
+- [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server (Godot 2.0).
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0).
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
-- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
-- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - Realistic 3D water shader with foam and caustics.
-- [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
-- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
-- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
-- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
+- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap (Godot 2.1).
+- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - Realistic 3D water shader with foam and caustics (Godot 3.1).
+- [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics (Godot 2.1).
+- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one (Godot 2.1).
+- [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo (Godot 2.1).
+- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module (Godot 3.1).
 
 ## Tutorials
 
