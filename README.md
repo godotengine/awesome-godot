@@ -1,8 +1,20 @@
 # Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Godot Engine logo](godot-logo.svg)](https://godotengine.org)
+[![Awesome Godot Engine](banner.svg)](https://godotengine.org)
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
+
+## Key
+- #### GAMES
+  - 🧬 **source**
+  - 🌐 **web**
+  - 🔲 **windows**
+  - 🍎 **mac**
+  - 🐧 **linux**
+  - 👁️ **iphone**
+  - 🤖 **android**
+  - ❤️ **ALL PLATFORMS**
+  - 💖 **ALL PLATFORMS + SOURCE**
 
 ## Contents
 
@@ -27,35 +39,35 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### 2D
 
-- [Blipshift](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game (Godot 3.1).
-- [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone (Godot 2.1).
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
-- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
-- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
-- [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players (Godot 2.1).
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam (Godot 2.1).
-- [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
-- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game (Godot 1).
-- [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
-- [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone (Godot 2.1).
-- [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game (Godot 2.1).
-- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015) (Godot 2.1).
-- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge (Godot 2.1).
-- [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
-- [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game (Godot 2.1).
-- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects (Godot 2.1).
-- [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game (Godot 2.1).
-- [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016 (Godot 2.1).
+- 🧬 [Blipshift](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game (Godot 3.1).
+- 🧬 [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone (Godot 2.1).
+- 🧬 [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
+- 🧬 [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
+- 🧬 [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
+- 🧬 [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players (Godot 2.1).
+- 🧬 [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam (Godot 2.1).
+- 🧬 [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
+- 🧬 [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
+- 🧬 [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game (Godot 1).
+- 🧬 [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
+- 🧬 [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone (Godot 2.1).
+- 💖 [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game (Godot 2.1).
+- 🧬 [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015) (Godot 2.1).
+- 🧬 [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge (Godot 2.1).
+- 🧬+🔲+🍎+🐧 [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
+- 🧬 [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
+- 🧬 [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game (Godot 2.1).
+- 🧬 [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects (Godot 2.1).
+- 🧬+🔲+🍎+🐧+🤖 [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game (Godot 2.1).
+- 🧬 [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016 (Godot 2.1).
 
 ### 3D
 
-- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
-- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
-- [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish (Godot 2.0).
-- [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.1).
-- [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level (Godot 2.0).
+- 🧬 [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
+- 🧬 [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
+- 🧬 [MouseBoat](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish (Godot 2.0).
+- 🧬+🔲+🍎+🐧 [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.1).
+- 🧬+🔲+🐧 [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level (Godot 2.0).
 
 ## Demos
 
