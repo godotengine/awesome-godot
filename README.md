@@ -80,20 +80,20 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### Text tutorials
 
-- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction to Godot.
-- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform.
+- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (Godot 2.1, 3.0, 3.1)
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction (Godot 3.1).
+- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform (Godot 3.1).
 
 ### Video tutorials
 
-- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
-- [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Tutorial series about creating a 3D game.
-- [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games.
-- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
-- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
-- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development.
-- [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
-- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
+- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative (Godot 3.x).
+- [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Tutorial series about creating a 3D game (Godot 3.1).
+- [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games (Godot 3.1).
+- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) (Godot 3.0)
+- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
+- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1).
+- [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) (Godot 3.1)
+- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games (Godot 3.0).
 
 ## Themes
 
@@ -125,31 +125,31 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
+- [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format (Godot 2.1).
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
-- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays.
+- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays (Godot 2.1, 3.1).
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework.
-- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.1).
+- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript (Godot 3.1)
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
-- [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions.
+- [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
-- [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
-- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework.
-- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions for Godot.
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue).
-- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
-- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
-- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
+- [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd (Godot 3.1).
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.1).
+- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions (Godot 3.1).
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 1.1, 2.1, 3.1).
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
+- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations (Godot 2.1).
+- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot 2.1).
+- [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot.
-- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
-- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/).
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1).
+- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.0).
+- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows (Godot 2.1).
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 1.x, 2.x, 3.0).
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
-- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style.
+- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 2.x).
 
 ## GDScript editor support
 
