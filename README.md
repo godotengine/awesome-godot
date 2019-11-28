@@ -84,6 +84,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (Godot 2.1, 3.0, 3.1)
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction (Godot 3.1).
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform (Godot 3.1).
+- [Godot Recipes](http://godotrecipes.com/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
 
 ### Video tutorials
 
@@ -92,7 +93,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games (Godot 3.1).
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) (Godot 3.0)
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
-- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1).
+- [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) (Godot 3.1)
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games (Godot 3.0).
 
