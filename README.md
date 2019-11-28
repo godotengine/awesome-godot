@@ -68,7 +68,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0).
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap (Godot 2.1).
-- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - Realistic 3D water shader with foam and caustics (Godot 3.1).
+- [Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics (Godot 3.1).
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics (Godot 2.1).
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one (Godot 2.1).
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo (Godot 2.1).
@@ -84,7 +84,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (Godot 2.1, 3.0, 3.1)
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction (Godot 3.1).
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform (Godot 3.1).
-- [Godot Recipes](http://godotrecipes.com/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
+- [Godot Recipes](http://kidscancode.org/godot_recipes/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
 
 ### Video tutorials
 
@@ -134,7 +134,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.1).
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript (Godot 3.1)
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
-- [gdstats](https://github.com/droxmusic/gdstats/) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
+- [gdstats](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd (Godot 3.1).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.1).
