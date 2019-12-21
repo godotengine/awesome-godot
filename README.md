@@ -65,7 +65,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing the cellular automata method (Godot 2.0).
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting (Godot 2.1).
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server (Godot 2.0).
-- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) - RPG demo (Godot 3.0).
+- [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo (Godot 3.0).
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap (Godot 2.1).
 - [Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics (Godot 3.1).
@@ -155,7 +155,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ## GDScript editor support
 
-*Add-ons for text editors that implement GDscript support.*
+*Add-ons for text editors that implement GDScript support.*
 
 - [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 - [Emacs](https://github.com/francogarcia/godot-gdscript.el) - Syntax highlighting, indentation and autocompletion.
@@ -182,8 +182,9 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ## Other
 
-*Other stuff.*
+*Other stuff. Bash scripts can be placed in `~/.local/bin`*
 
+- [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) and [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono) - Scripts that build and run Godot, attempting to install dependencies if needed.
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
