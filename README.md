@@ -9,6 +9,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
+- [Projects](#projects)
 - [Demos](#demos)
 - [Tutorials](#tutorials)
   - [Text tutorials](#text-tutorials)
@@ -57,6 +58,13 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth (Godot 3.1).
 - [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.1).
 - [Veraball](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level (Godot 2.0).
+
+## Projects
+
+*Non-game projects made with Godot (tools/utilities).*
+
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.1).
+- [Material Maker](https://github.com/RodZill4/godot-procedural-textures) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.1).
 
 ## Demos
 
