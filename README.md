@@ -14,7 +14,6 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Tutorials](#tutorials)
   - [Text tutorials](#text-tutorials)
   - [Video tutorials](#video-tutorials)
-- [Themes](#themes)
 - [Modules](#modules)
 - [Plugins and scripts](#plugins-and-scripts)
 - [GDScript editor support](#gdscript-editor-support)
@@ -104,13 +103,6 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) (Godot 3.1)
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games (Godot 3.0).
-
-## Themes
-
-*Themes for your Godot games or user interface.*
-
-- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes)
-- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
 
 ## Modules
 
