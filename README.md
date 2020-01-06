@@ -115,6 +115,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine.
 - [Gdnet](https://github.com/empyreanx/gdnet) - An ENet wrapper for Godot.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API for the Godot game engine (version 3.0 - 3.1). For the Windows, Linux, and Mac platforms.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
