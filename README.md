@@ -37,7 +37,6 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
 - [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth (Godot 3.1).
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) - A pinball game (Godot 1).
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone (Godot 2.1).
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game (Godot 2.1).
@@ -140,7 +139,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd (Godot 3.1).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.1).
 - [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions (Godot 3.1).
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 1.1, 2.1, 3.1).
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.1).
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations (Godot 2.1).
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot 2.1).
@@ -151,7 +150,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1).
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.0).
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows (Godot 2.1).
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 1.x, 2.x, 3.0).
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.1).
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 2.x).
 
