@@ -10,6 +10,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
   - [2D](#2d)
   - [3D](#3d)
 - [Projects](#projects)
+- [Templates](#templates)
 - [Demos](#demos)
 - [Tutorials](#tutorials)
   - [Text tutorials](#text-tutorials)
@@ -66,6 +67,12 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.1).
 - [Material Maker](https://github.com/RodZill4/godot-procedural-textures) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.1).
+
+## Templates
+
+*Projects to use as a base for your own games.*
+
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games (Godot 3.1).
 
 ## Demos
 
