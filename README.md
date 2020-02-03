@@ -172,6 +172,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Emacs](https://github.com/francogarcia/godot-gdscript.el) - Syntax highlighting, indentation and autocompletion.
 - [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
+- [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/calviken/vim-gdscript3) - Syntax highlighting, autocompletion and linting. Also supports the Godot shader language.
