@@ -103,6 +103,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 ### Video tutorials
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative (Godot 3.x).
+- [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) - TDD game development and GUT framework tutorials.
 - [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Tutorial series about creating a 3D game (Godot 3.1).
 - [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games (Godot 3.1).
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) (Godot 3.0)
@@ -177,6 +178,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/calviken/vim-gdscript3) - Syntax highlighting, autocompletion and linting. Also supports the Godot shader language.
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
+- [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
 
 ## Godot script editor syntax themes
 
