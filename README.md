@@ -65,7 +65,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 *Non-game projects made with Godot (tools/utilities).*
 
-- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.1).
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.2).
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.1).
 
 ## Templates
