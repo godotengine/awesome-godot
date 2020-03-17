@@ -73,6 +73,8 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 *Projects to use as a base for your own games.*
 
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games (Godot 3.1).
+- [Multiplayer First Person Shooter](https://github.com/ic3bug/Godot-3.2-Multiplayer-FPS) - A multiplayer first person shooter example project (Godot 3.2).
+[Multiplayer third person shooter](https://github.com/ic3bug/TPS-MP) Multiplayer third person shooter example (Godot 3.2).
 
 ## Demos
 
