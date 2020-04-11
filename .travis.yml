@@ -10,4 +10,4 @@ install: |
 
 script: |
   "$HOME/.local/bin/pre-commit" run --all-files
-  awesome_bot --files "README.md" --white-list "https://awesome.re,https://godotengine.org"
+  awesome_bot --files "README.md" --white-list "https://awesome.re,https://godotengine.org,https://www.youtube.com"
