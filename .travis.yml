@@ -1,13 +1,15 @@
+os: linux
+dist: bionic
 language: ruby
 
 rvm:
-  - "2.6.1"
+  - "2.7.1"
 
-install: |
-  pyenv global 3.6.3
-  pip3 install --user pre-commit
-  gem install awesome_bot
+install:
+  - pyenv global 3.8.1
+  - pip3 install --user pre-commit
+  - gem install awesome_bot
 
-script: |
-  "$HOME/.local/bin/pre-commit" run --all-files
-  awesome_bot --files "README.md" --white-list "https://awesome.re,https://godotengine.org,https://www.youtube.com"
+script:
+  - '"$HOME/.local/bin/pre-commit" run --all-files'
+  - awesome_bot --files "README.md" --white-list "https://awesome.re,https://godotengine.org,https://www.youtube.com"
