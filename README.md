@@ -138,7 +138,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
-
+- [Aseprite](https://github.com/leonkrause/aseprite-import/tree/master/addons/eska.aseprite_importer) - Aseprite importer (Godot 3.0).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format (Godot 2.1).
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays (Godot 2.1, 3.1).
