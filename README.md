@@ -161,7 +161,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot 2.1).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
-- [Qodot](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design. (Godot 3.1).
+- [Qodot](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design. (Godot 3.2).
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1).
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.0).
