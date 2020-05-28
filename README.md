@@ -32,9 +32,10 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone (Godot 2.1).
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
 - [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
-- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players (Godot 2.1).
+- [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot (Godot 3.1).
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam (Godot 2.1).
+- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
 - [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth (Godot 3.1).
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
