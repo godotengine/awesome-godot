@@ -39,6 +39,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
 - [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth (Godot 3.1).
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
+- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games (Godot 3.2).
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone (Godot 2.1).
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game (Godot 2.1).
