@@ -198,8 +198,8 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 *Alternative themes for the built-in script editor.*
 
 - [base16-godot](https://github.com/Calinou/base16-godot) - All [base16](https://github.com/chriskempson/base16) themes.
+- [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
-- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## Unofficial Godot builds
 
