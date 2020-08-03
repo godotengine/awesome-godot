@@ -150,7 +150,6 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.1).
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript (Godot 3.1)
-- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
 - [gdstats](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser (Godot 3.1).
