@@ -68,7 +68,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 *Non-game projects made with Godot (tools/utilities).*
 
-- [Godello](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of complex for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code (Godot 3.2).
+- [Godello](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code (Godot 3.2).
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.2).
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor (Godot 3.2).
 
