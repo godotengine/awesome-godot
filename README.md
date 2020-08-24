@@ -58,6 +58,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 ### 3D
 
+- [Broken Seals](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (Godot 3.2 - needs custom engine modules).
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
 - [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
 - [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth (Godot 3.1).
@@ -90,6 +91,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap (Godot 2.1).
 - [Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water) - Realistic 3D water shader with foam and caustics (Godot 3.1).
+- [The Tower](https://github.com/Relintai/the_tower) - A voxel-based parkour game to show the capabilities of the Voxelman module (Godot 3.2).
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics (Godot 2.1).
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one (Godot 2.1).
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo (Godot 2.1).
@@ -124,6 +126,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 
 *Stuff integrated into Godot core (C++).*
 
+- [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
 - [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 - [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
@@ -139,6 +142,8 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) wrap for Godot.
 - [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2, 4.0).
+- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2, 4.0).
 - [WaterSplash 2D node](https://github.com/laverneth/water)
 
 ## Plugins and scripts
