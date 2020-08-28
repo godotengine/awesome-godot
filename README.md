@@ -188,7 +188,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 *Add-ons for text editors that implement GDScript support.*
 
 - [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
-- [Emacs](https://github.com/GDQuest/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+- [Emacs](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 - [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 - [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
