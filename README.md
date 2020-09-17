@@ -184,15 +184,16 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin (Godot 3.2).
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games (Godot 3.2).
 
-## GDScript editor support
+## GDScript/C# editor support
 
-*Add-ons for text editors that implement GDScript support.*
+*Add-ons for text editors that implement GDScript or C# support.*
 
 - [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 - [Emacs](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 - [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 - [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
+- [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
