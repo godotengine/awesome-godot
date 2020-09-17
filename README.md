@@ -163,7 +163,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.1).
 - [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code (Godot 3.1).
-- [Godot NExt](https://github.com/willnationsdev/godot-next) - A set of basic node extensions (Godot 3.1).
+- [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions (Godot 3.2).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.1).
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations (Godot 2.1).
