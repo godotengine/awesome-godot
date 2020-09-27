@@ -186,6 +186,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin (Godot 3.2).
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin (Godot 3.2).
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games (Godot 3.2).
+- [Godot GDScript GIF Exporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript (Godot 3.2).
 
 ## GDScript/C# editor support
 
