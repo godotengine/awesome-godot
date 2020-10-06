@@ -4,6 +4,9 @@
 
 A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
+Looking for third-party programming language support in Godot?
+See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
+
 ## Contents
 
 - [Games](#games)
