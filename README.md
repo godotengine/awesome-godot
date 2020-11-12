@@ -175,6 +175,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations (Godot 2.1).
 - [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot 2.1).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
+- [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - Plugin for advanced 2D/3D trail system. (Godot 3.2).
 - [InGrid](https://github.com/Larpon/ingrid) - Infinite scrolling grid (Godot 3.x).
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes (Godot 3.2).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Godot 3.2 Mono).
