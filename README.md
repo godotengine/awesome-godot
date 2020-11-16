@@ -65,7 +65,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
 - [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
 - [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth (Godot 3.1).
-- [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.1).
+- [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.2).
 - [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life.
 
 ## Projects
