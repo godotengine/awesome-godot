@@ -120,6 +120,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games (Godot 3.1).
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) (Godot 3.0)
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
+- [Game Development Center](https://www.youtube.com/c/GameDevelopmentCenter) - Tutorials about 2D and networked multiplayer game development (Godot 3.2).
 - [HeartBeast](https://www.youtube.com/user/uheartbeast) - A Godot developer's diary and tutorials (Godot 3.x).
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) (Godot 3.1)
