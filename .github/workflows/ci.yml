@@ -1,0 +1,30 @@
+name: Continuous integration
+
+on:
+  push:
+  pull_request:
+  schedule:
+    # Every day at midnight (UTC).
+    # URLs can decay over time. Setting up a schedule makes it possible to be warned
+    # about dead links as soon as possible.
+    - cron: "0 0 * * *"
+
+env:
+  RUBY_VERSION: "2.7.2"
+
+jobs:
+  check:
+    name: Check URL validity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ env.RUBY_VERSION }}
+
+      - name: Run awesome_bot
+        run: |
+          gem install awesome_bot
+          awesome_bot --files "README.md" --white-list "https://awesome.re,https://godotengine.org,https://www.youtube.com"
