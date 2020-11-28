@@ -157,6 +157,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Cartographer](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor (Godot 3.2).
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays (Godot 2.1, 3.1).
+- [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points (Godot 3.2).
 - [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.1).
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript (Godot 3.1)
