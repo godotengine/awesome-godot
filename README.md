@@ -82,6 +82,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector (Godot 3.2).
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games (Godot 3.1).
+- [Minimum Game](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving (Godot 3.2).
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project (Godot 3.2).
 - [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project (Godot 3.2).
 
