@@ -230,6 +230,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - Mainly master branch, other branches can be found [here](https://archive.hugo.pro/builds/godot/).
 - [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - Distributed via Itch.io (automatic updates with [app](https://itch.io/app)), master branch only.
+- [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
 ## Other
 
