@@ -195,6 +195,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor (Godot 3.2).
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin (Godot 3.2).
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin (Godot 3.2).
+- [Waterways](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves (Godot 3.2).
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games (Godot 3.2).
 
 ## GDScript/C# editor support
