@@ -31,18 +31,34 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 2D
 
+#### Godot 3.2
+
+- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games (Godot 3.2).
+- [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries (Godot 3.2).
+- [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena (Godot 3.2).
+- [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux (Godot 3.2).
+
+#### Godot 3.1
+
 - [Blipshift](https://github.com/GaidamakUA/blipshift) - Simple top-down moving platforms game (Godot 3.1).
+- [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot (Godot 3.1).
+- [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth (Godot 3.1).
+- [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam (Godot 3.1).
+- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons (Godot 3.1).
+
+#### Godot 3.0
+
+- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
+- [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
+
+#### Godot 2.1
+
 - [BlockPop](https://github.com/vnen/blockpop) - A simple Breakout clone (Godot 2.1).
 - [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
-- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players (Godot 2.1).
-- [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot (Godot 3.1).
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam (Godot 2.1).
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe (Godot 2.1).
-- [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth (Godot 3.1).
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours (Godot 2.1).
-- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games (Godot 3.2).
-- [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game (Godot 3.0).
 - [Minehunter](https://github.com/genete/Minehunter) - A Minesweeper clone (Godot 2.1).
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game (Godot 2.1).
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015) (Godot 2.1).
@@ -51,13 +67,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
 - [Platshoot](https://github.com/Calinou/platshoot) - A 2D shooter game (Godot 2.1).
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) - Top-down shooter with extensive usage of light effects (Godot 2.1).
-- [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam (Godot 3.1).
-- [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries (Godot 3.2).
-- [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena (Godot 3.1).
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game (Godot 2.1).
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016 (Godot 2.1).
-- [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux (Godot 3.1).
-- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons (Godot 3.1).
 
 ### 3D
 
@@ -123,6 +134,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) - RPG demo (Godot 3.0).
 
 #### Godot 2.1
+
 - [FPS Test](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting (Godot 2.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap (Godot 2.1).
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics (Godot 2.1).
@@ -136,98 +148,139 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### Text tutorials
 
-- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (Godot 2.1, 3.0, 3.1)
+#### Various Godot version
+
+- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (From Godot version 2.1 to the latest Godot version)
+- [Godot Recipes](http://kidscancode.org/godot_recipes/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
+
+#### Godot 3.1
+
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction (Godot 3.1).
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform (Godot 3.1).
-- [Godot Recipes](http://kidscancode.org/godot_recipes/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
 
 ### Video tutorials
 
-- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative (Godot 3.x).
+#### Various Godot version
+
+- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
 - [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) - TDD game development and GUT framework tutorials.
+- [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games.
+- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
+- [Game Development Center](https://www.youtube.com/c/GameDevelopmentCenter) - Tutorials about 2D and networked multiplayer game development.
+- [HeartBeast](https://www.youtube.com/user/uheartbeast) - A Godot developer's diary and tutorials.
+- [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development.
+- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
+
+#### Godot 3.1
+
 - [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Tutorial series about creating a 3D game (Godot 3.1).
-- [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games (Godot 3.1).
-- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) (Godot 3.0)
-- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
-- [Game Development Center](https://www.youtube.com/c/GameDevelopmentCenter) - Tutorials about 2D and networked multiplayer game development (Godot 3.2).
-- [HeartBeast](https://www.youtube.com/user/uheartbeast) - A Godot developer's diary and tutorials (Godot 3.x).
-- [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development (Godot 2.1, 3.x).
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) (Godot 3.1)
-- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games (Godot 3.0).
+
+#### Godot 3.0
+
+- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) (Godot 3.0)
 
 ## Modules
 
 *Stuff integrated into Godot core (C++).*
 
+#### Various Godot version
+
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 - [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot (Godot 3.2).
-- [godotcord](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide) (Godot 3.2).
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine.
+- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine(Godot 3.1+).
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
-- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.1).
+- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.0 - 3.2.3).
+- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2, 4.0).
+- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2, 4.0).
+
+#### Godot 3.2
+
+- [godotcord](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide) (Godot 3.2).
+- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot (Godot 3.2).
 - [Goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension (Godot 3.2).
+- [PortAudio](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com) (Godot 3.2).
+
+#### Godot 3.1
+
+- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot(Godot 3.1).
+
+#### Godot version unknown
+
+- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
-- [PortAudio](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com) (Godot 3.2).
 - [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2, 4.0).
-- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2, 4.0).
 - [WaterSplash 2D node](https://github.com/laverneth/water)
 
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format (Godot 2.1).
-- [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
-- [Cartographer](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor (Godot 3.2).
+#### Various Godot version
+
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays (Godot 2.1, 3.1).
-- [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points (Godot 3.2).
-- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.1).
-- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript (Godot 3.1)
-- [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript (Godot 3.2).
-- [gdstats](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
-- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
-- [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser (Godot 3.1).
-- [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd (Godot 3.2, 3.1).
-- [godotdetour](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library (Godot 3.2).
-- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.1).
-- [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
-- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code (Godot 3.1).
-- [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions (Godot 3.2).
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.1).
-- [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Godot 3.2 Mono).
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.*).
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
-- [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system (Godot 3.2).
-- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations (Godot 2.1).
-- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot 2.1).
+- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators (Godot >= 2.1).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
 - [InGrid](https://github.com/Larpon/ingrid) - Infinite scrolling grid (Godot 3.x).
+- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
+- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
+
+#### Godot 3.2
+
+- [Cartographer](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor (Godot 3.2).
+- [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points (Godot 3.2).
+- [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript (Godot 3.2).
+- [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser (Godot 3.2).
+- [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd (Godot 3.2.3+).
+- [godotdetour](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library (Godot 3.2).
+- [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions (Godot 3.2).
+- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code (Godot 3.2).
+- [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Godot 3.2 Mono).
+- [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system (Godot 3.2).
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes (Godot 3.2).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Godot 3.2 Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - Mitigates the scaling effects of SkeletonIK (Godot 3.2).
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor (Godot 3.2).
-- [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 - [Qodot](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design. (Godot 3.2).
-- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1).
-- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.0).
-- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows (Godot 2.1).
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.1).
-- [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
-- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.2).
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor (Godot 3.2).
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin (Godot 3.2).
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin (Godot 3.2).
 - [Waterways](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves (Godot 3.2).
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games (Godot 3.2).
+
+#### Godot 3.1
+
+- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript (Godot 3.1)
+
+#### Godot 3.0
+
+- [gdstats](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions (Godot 3.0).
+
+#### Godot 2.1
+
+- [Auto Tile Layer](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format (Godot 2.1).
+- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations (Godot 2.1).
+- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows (Godot 2.1).
+
+#### Godot version unknown
+
+- [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
+- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
+- [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+- [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+- [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
+- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
+- [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
 
 ## GDScript/C# editor support
 
