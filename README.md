@@ -61,16 +61,29 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 3D
 
+#### Godot 3.2
+
 - [Broken Seals](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (Godot 3.2 - needs custom engine modules).
-- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
-- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
-- [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth (Godot 3.1).
 - [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party (Godot 3.2).
-- [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life.
+- [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life(3.2.3 Mono).
+
+#### Godot 3.1
+
+- [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth (Godot 3.1).
+
+#### Godot 3.0
+
+- [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018 (Godot 3.0).
+
+#### Godot 2.1
+
+- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016 (Godot 2.1).
 
 ## Projects
 
 *Non-game projects made with Godot (tools/utilities).*
+
+#### Godot 3.2
 
 - [Godello](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code (Godot 3.2).
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer) (Godot 3.2).
