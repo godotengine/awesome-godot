@@ -76,7 +76,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Broken Seals](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 - [Super Tux Party](https://anti.itch.io/super-tux-party) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-- [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life(Mono).
+- [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 3.1
 
