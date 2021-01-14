@@ -240,7 +240,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
 - [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
-- [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for gotm.io
+- [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/)
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
 - [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
