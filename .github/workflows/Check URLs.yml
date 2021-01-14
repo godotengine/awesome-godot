@@ -27,14 +27,8 @@ jobs:
         # The timeout seconds to provide to requests, defaults to 5 seconds
         timeout: 5
 
-        # How many times to retry a failed request (each is logged, defaults to 1)
-        retry_count: 3
-
-        # A comma separated links to exclude during URL checks
-        exclude_urls: https://github.com/SuperKogito/URLs-checker/issues/1,https://github.com/SuperKogito/URLs-checker/issues/2
-
         # A comma separated patterns to exclude during URL checks
-        exclude_patterns: https://github.com/SuperKogito/Voice-based-gender-recognition/issues
+        exclude_patterns: https://awesome.re,https://godotengine.org,https://www.youtube.com
 
         # choose if the force pass or not
         force_pass : true
