@@ -25,9 +25,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Other](#other)
 
-## Games
+## Open Source Games
 
-*Games that use Godot.*
+*Open Source Games that use Godot.*
 
 ### 2D
 
@@ -89,9 +89,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
-## Projects
+## Open Source Projects
 
-*Non-game projects made with Godot (tools/utilities).*
+*Non-game Open source projects made with Godot (tools/utilities).*
 
 #### Godot 3.2
 
