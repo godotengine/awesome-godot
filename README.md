@@ -147,7 +147,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### Text tutorials
 
-#### Various Godot version
+#### Various Godot versions
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (From Godot version 2.1 to the latest Godot version)
 - [Godot Recipes](http://kidscancode.org/godot_recipes/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
@@ -159,7 +159,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### Video tutorials
 
-#### Various Godot version
+#### Various Godot versions
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
 - [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) - TDD game development and GUT framework tutorials.
@@ -183,7 +183,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Stuff integrated into Godot core (C++).*
 
-#### Various Godot version
+#### Various Godot versions
 
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
 - [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
@@ -219,7 +219,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-#### Various Godot version
+#### Various Godot versions
 
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT displays (Godot 2.x, 3.x).
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2).
