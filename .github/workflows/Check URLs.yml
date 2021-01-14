@@ -1,4 +1,4 @@
-name: Check URLs
+name: 🌐 Check URLs
 
 on:
   push:
