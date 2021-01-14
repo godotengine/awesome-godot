@@ -29,6 +29,3 @@ jobs:
 
         # A comma separated patterns to exclude during URL checks
         exclude_patterns: https://awesome.re,https://godotengine.org,https://www.youtube.com
-
-        # choose if the force pass or not
-        force_pass : true
