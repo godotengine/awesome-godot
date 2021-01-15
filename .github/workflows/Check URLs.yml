@@ -10,11 +10,14 @@ on:
     - cron: "0 0 * * *"
 jobs:
   linkChecker:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
+
       - uses: actions/checkout@v2
+      
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
+        
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
         with:
