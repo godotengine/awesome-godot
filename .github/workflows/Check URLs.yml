@@ -8,8 +8,9 @@ on:
     # URLs can decay over time. Setting up a schedule makes it possible to be warned
     # about dead links as soon as possible.
     - cron: "0 0 * * *"
+
 jobs:
-  linkChecker:
+  check-links:
     runs-on: ubuntu-20.04
     steps:
 
