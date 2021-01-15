@@ -8,7 +8,6 @@ on:
     # URLs can decay over time. Setting up a schedule makes it possible to be warned
     # about dead links as soon as possible.
     - cron: "0 0 * * *"
-name: Check markdown links
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
