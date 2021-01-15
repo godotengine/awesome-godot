@@ -15,12 +15,8 @@ jobs:
 
       - uses: actions/checkout@v2
       
-      - name: Link Checker
+      - name: Check link validity
         uses: lycheeverse/lychee-action@v1
         
-      - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v2
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lc.outputs.exit_code }}
