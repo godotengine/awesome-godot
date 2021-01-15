@@ -8,24 +8,17 @@ on:
     # URLs can decay over time. Setting up a schedule makes it possible to be warned
     # about dead links as soon as possible.
     - cron: "0 0 * * *"
-
+name: Check markdown links
 jobs:
-  build:
+  linkChecker:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: urls-checker
-      uses: urlstechie/urlchecker-action@master
-      with:
-        # A comma-separated list of file types to cover in the URL checks
-        file_types: .md
-
-        # Choose whether to include file with no URLs in the prints.
-        print_all: false
-
-        # The timeout seconds to provide to requests, defaults to 5 seconds
-        timeout: 5
-
-        # A comma separated patterns to exclude during URL checks
-        exclude_patterns: https://awesome.re,https://godotengine.org,https://www.youtube.com
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
