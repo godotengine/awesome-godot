@@ -198,6 +198,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [godotcord](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 - [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
+- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) for Godot.
 - [Goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
@@ -237,7 +238,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3.2
 
 - [Cartographer](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
+- [Code Snapshot](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
 - [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
+- [Dialogic](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
 - [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/).
@@ -251,7 +254,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - Mitigates the scaling effects of SkeletonIK.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
+- [NativeLib](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating.
 - [Qodot](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
+- [Scatter](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
