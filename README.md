@@ -169,6 +169,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [HeartBeast](https://www.youtube.com/user/uheartbeast) - A Godot developer's diary and tutorials.
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development.
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
+- [bitbrain](https://youtube.com/bitbraindev) - Devlogs and tutorials about building various concepts with Godot. 
 
 #### Godot 3.1
 
