@@ -17,6 +17,9 @@ jobs:
 
       - name: Check link validity
         uses: lycheeverse/lychee-action@v1
+        # Specify a token to allow checking more than 60 GitHub URLs.
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
 
       - name: Fail if there were link errors
         run: exit ${{ steps.lc.outputs.exit_code }}
