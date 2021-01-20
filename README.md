@@ -35,6 +35,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3.2
 
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
+- [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
 - [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
