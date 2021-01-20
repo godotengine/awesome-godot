@@ -18,8 +18,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Tutorials](#tutorials)
   - [Text tutorials](#text-tutorials)
   - [Video tutorials](#video-tutorials)
-- [Modules](#modules)
 - [Plugins and scripts](#plugins-and-scripts)
+- [Modules](#modules)
 - [GDScript editor support](#gdscript-editor-support)
 - [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
 - [Unofficial Godot builds](#unofficial-godot-builds)
@@ -179,43 +179,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
 
-## Modules
-
-*Stuff integrated into Godot core (C++).*
-
-#### Various Godot versions
-
-- [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
-- [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine(Godot 3.1+).
-- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
-- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.0 - 3.2.3).
-- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2, 4.0).
-- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2, 4.0).
-
-#### Godot 3.2
-
-- [godotcord](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) for Godot.
-- [Goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
-- [PortAudio](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
-
-#### Godot 3.1
-
-- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
-
-#### Godot version unknown
-
-- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
-- [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
-- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
-- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
-- [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
-- [WaterSplash 2D node](https://github.com/laverneth/water)
-
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
@@ -287,6 +250,43 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
+
+## Modules
+
+*Stuff integrated into Godot core (C++).*
+
+#### Various Godot versions
+
+- [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
+- [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+- [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+- [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds in Godot Engine(Godot 3.1+).
+- [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.0 - 3.2.3).
+- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2, 4.0).
+- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2, 4.0).
+
+#### Godot 3.2
+
+- [godotcord](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
+- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
+- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) for Godot.
+- [Goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+- [PortAudio](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
+
+#### Godot 3.1
+
+- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+
+#### Godot version unknown
+
+- [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+- [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
+- [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+- [WaterSplash 2D node](https://github.com/laverneth/water)
 
 ## GDScript/C# editor support
 
