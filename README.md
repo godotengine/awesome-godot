@@ -326,7 +326,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Bash scripts
 
-*Bash scripts can be placed in `~/.local/bin`*
+*Bash scripts can be placed in `~/.local/bin`.*
 
 - [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) and [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono) - Scripts that build and run Godot, attempting to install dependencies if needed.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
