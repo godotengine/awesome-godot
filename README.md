@@ -122,6 +122,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.2
 
+- [**Godot Demo Projects**](https://github.com/godotengine/godot-demo-projects/) - Official Godot demo projects (everything except the TPS demo).
+- [**TPS Demo**](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
 - [The Tower](https://github.com/Relintai/the_tower) - A voxel-based parkour game to show the capabilities of the Voxelman module.
 
 #### Godot 3.1
@@ -164,7 +166,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Various Godot versions
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
-- [bitbrain](https://youtube.com/bitbraindev) - Devlogs and tutorials about building various concepts with Godot. 
+- [bitbrain](https://youtube.com/bitbraindev) - Devlogs and tutorials about building various concepts with Godot.
 - [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) - TDD game development and GUT framework tutorials.
 - [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games.
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
@@ -342,6 +344,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Other stuff.*
 
+- [**Godot Asset Library**](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 - [codetranslator](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
