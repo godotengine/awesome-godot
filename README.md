@@ -162,6 +162,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Various Godot versions
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
+- [bitbrain](https://youtube.com/bitbraindev) - Devlogs and tutorials about building various concepts with Godot. 
 - [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) - TDD game development and GUT framework tutorials.
 - [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games.
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
@@ -169,7 +170,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [HeartBeast](https://www.youtube.com/user/uheartbeast) - A Godot developer's diary and tutorials.
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development.
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
-- [bitbrain](https://youtube.com/bitbraindev) - Devlogs and tutorials about building various concepts with Godot. 
 
 #### Godot 3.1
 
