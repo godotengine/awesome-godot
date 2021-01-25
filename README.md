@@ -9,7 +9,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Contents
 
-- [Websites](#varios-websites)
+- [Websites](#websites)
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
@@ -27,7 +27,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Bash scripts](#bash-scripts)
 - [Other](#other)
 
-## Varios Websites 
+## Websites 
 
 - [**Godot Asset Library**](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 - [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
