@@ -9,7 +9,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Contents
 
-- [Websites](#websites)
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
@@ -25,13 +24,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Bash scripts](#bash-scripts)
+- [Websites](#websites)
 - [Other](#other)
-
-## Websites 
-
-- [**Godot Asset Library**](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
-- [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
-- [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## Open Source Games
 
@@ -346,6 +340,12 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
+
+## Websites 
+
+- [**Godot Asset Library**](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
+- [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
+- [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## Other
 
