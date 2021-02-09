@@ -9,10 +9,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Contents
 
-- [Games](#games)
+- [Games](#open-source-games)
   - [2D](#2d)
   - [3D](#3d)
-- [Projects](#projects)
+- [Projects](#open-source-projects)
 - [Templates](#templates)
 - [Demos](#demos)
 - [Tutorials](#tutorials)
@@ -20,7 +20,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
   - [Video tutorials](#video-tutorials)
 - [Plugins and scripts](#plugins-and-scripts)
 - [Modules](#modules)
-- [GDScript editor support](#gdscript-editor-support)
+- [GDScript/C# editor support](#gdscriptc-editor-support)
 - [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Bash scripts](#bash-scripts)
