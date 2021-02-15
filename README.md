@@ -126,7 +126,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [**Godot Demo Projects**](https://github.com/godotengine/godot-demo-projects/) - Official Godot demo projects (everything except the TPS demo).
 - [**TPS Demo**](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
-- [Godot experiments](https://github.com/MrEliptik/godot_experiments) - Some 2D, 3D & VR experiments 
+- [Godot experiments](https://github.com/MrEliptik/godot_experiments) - Several 2D, 3D and VR experiments.
 - [The Tower](https://github.com/Relintai/the_tower) - A voxel-based parkour game to show the capabilities of the Voxelman module.
 
 #### Godot 3.1
