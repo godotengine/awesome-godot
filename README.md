@@ -287,7 +287,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4.0
 
-- [Godex](https://github.com/GodotECS/godex) - A ECS library.
+- [Godex](https://github.com/GodotECS/godex) - An entity component system library.
 
 #### Godot 3.2
 
