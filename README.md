@@ -240,6 +240,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Scatter](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
+- [Universal Sky](https://github.com/7leodev/UniversalSky) - Adds a Dynamic Sky and Time of Day.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
@@ -361,6 +362,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [**Godot Asset Library**](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 - [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 - [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
+- [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
 
 ## Other
 
