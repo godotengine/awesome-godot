@@ -238,6 +238,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [NativeLib](https://github.com/DrMoriarty/nativelib) - Plugin management system designed to easily operate with native libraries for iOS/Android. It also takes care about plugin dependencies and provides hassle-free native libs updating.
 - [Qodot](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 - [Scatter](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+- [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 - [Universal Sky](https://github.com/7leodev/UniversalSky) - Adds a Dynamic Sky and Time of Day.
