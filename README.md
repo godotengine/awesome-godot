@@ -242,6 +242,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Scatter](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 - [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
+- [Tree generator](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 - [Universal Sky](https://github.com/7leodev/UniversalSky) - Adds a Dynamic Sky and Time of Day.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
