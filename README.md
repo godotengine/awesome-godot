@@ -233,6 +233,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 - [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - Make procedural sound and adaptive/procedural music with a few nodes and a couple lines of code.
+- [GodotOnReady](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 - [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
 - [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 - [Kehom's Godot Addon Pack](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
