@@ -229,7 +229,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API for [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - A GDNative implementation of the detour/detourcrowd library.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - A GDNative wrapper for the Discord Game SDK functionality, adding support for its functionality in GDScript without recompiling the engine.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - A GDNative wrapper for the Discord Game SDK, adding support for its functionality in GDScript without recompiling the engine (as opposed to something like [godotcord](https://github.com/drachenfrucht1/godotcord) which is a custom engine module).
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 - [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - A set of basic node extensions.
