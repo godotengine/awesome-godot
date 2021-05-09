@@ -33,7 +33,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 2D
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
@@ -74,7 +74,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 3D
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [Broken Seals](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 - [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
@@ -96,7 +96,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [Arrow](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 - [Godello](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
@@ -108,7 +108,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Projects to use as a base for your own games.*
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 - [Minimum Game](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
@@ -123,7 +123,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [**Godot Demo Projects**](https://github.com/godotengine/godot-demo-projects/) - Official Godot demo projects (everything except the TPS demo).
 - [**TPS Demo**](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
@@ -200,7 +200,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters (Godot 3.x).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2).
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.*).
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
@@ -215,7 +215,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [Cartographer](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
 - [CSG Mesh Exporter (.OBJ)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
@@ -292,15 +292,15 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
-- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.0 - 3.2.3).
-- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2, 4.0).
-- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2, 4.0).
+- [GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API library binding for Godot. Supports Windows, macOS and Linux (Godot 3.x).
+- [Texture Packer](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime (Godot 3.2+, 4.0).
+- [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2+, 4.0).
 
 #### Godot 4.0
 
 - [Godex](https://github.com/GodotECS/godex) - An entity component system library.
 
-#### Godot 3.2
+#### Godot 3.2+
 
 - [Flash Module](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 - [GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
