@@ -16,8 +16,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Templates](#templates)
 - [Demos](#demos)
 - [Tutorials](#tutorials)
-  - [Text tutorials](#text-tutorials)
-  - [Video tutorials](#video-tutorials)
 - [Plugins and scripts](#plugins-and-scripts)
 - [Modules](#modules)
 - [GDScript/C# editor support](#gdscriptc-editor-support)
@@ -150,43 +148,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Tutorials
 
-*A more complete list can be found in
-[this Reddit thread](https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/).*
-
-### Text tutorials
-
-#### Various Godot versions
-
-- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (From Godot version 2.1 to the latest Godot version)
-- [Godot Recipes](http://kidscancode.org/godot_recipes/) - A collection of text tutorials for from beginner to advanced. (Godot 3.x)
-
-#### Godot 3.1
-
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction.
-- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials) - Tutorials for creating a client-server multiplayer game. Includes a tutorial for hosting a server on Google Compute Platform.
-
-### Video tutorials
-
-#### Various Godot versions
-
-- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - Tutorials about 3D, shaders, VR and GDNative.
-- [bitbrain](https://youtube.com/bitbraindev) - Devlogs and tutorials about building various concepts with Godot.
-- [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) - TDD game development and GUT framework tutorials.
-- [Code with Tom](https://www.youtube.com/codewithtom) - Learn to code by making games.
-- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - Tutorials about 2D and 3D game development.
-- [Game Development Center](https://www.youtube.com/c/GameDevelopmentCenter) - Tutorials about 2D and networked multiplayer game development.
-- [HeartBeast](https://www.youtube.com/user/uheartbeast) - A Godot developer's diary and tutorials.
-- [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - Tutorials about 2D and 3D game development.
-- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - Tutorials about 3D effects and replicating concepts from well-known games.
-
-#### Godot 3.1
-
-- [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - Tutorial series about creating a 3D game.
-- [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
-
-#### Godot 3.0
-
-- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
+> [**Notice:** *The list of tutorials has moved to the Godot documentation.*](https://docs.godotengine.org/en/latest/community/tutorials.html)
 
 ## Plugins and scripts
 
