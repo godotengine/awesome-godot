@@ -106,6 +106,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Projects to use as a base for your own games.*
 
+#### Godot 3.3
+
+- [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template for Godot 3.3. It includes Continuos Integration, Scenes loading with graphic transitions, Game pause handling
+
 #### Godot 3.2+
 
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
