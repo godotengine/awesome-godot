@@ -244,11 +244,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1).
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.0).
-- [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - A Dialog and Interactive Fiction engine (Godot 3.2)
+- [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - A Dialog and Interactive Fiction engine (Godot 3.x)
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows (Godot 2.1).
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.1).
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - Build tilesets.
-- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.2).
+- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin (Godot 3.2).
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin (Godot 3.2).
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games (Godot 3.2).
