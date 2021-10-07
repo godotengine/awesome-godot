@@ -179,7 +179,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript (Godot 3.x).
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass (Godot 3.x).
 - [InGrid](https://github.com/Larpon/ingrid) - Infinite scrolling grid (Godot 3.x).
-- [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control OBS from Godot via obs-websocket (Godot 3.x)
+- [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games (Godot 3.x).
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
