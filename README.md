@@ -214,6 +214,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 - [Kehom's Godot Addon Pack](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
+- [Line Collider 2D](https://github.com/Kylogias/godot-line-collider-2d) - A script which adds colliders that follow an array of Line2Ds (useful for prototypes).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - Mitigates the scaling effects of SkeletonIK.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
