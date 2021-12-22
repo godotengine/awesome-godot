@@ -192,11 +192,12 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Cartographer](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
 - [CSG Mesh Exporter (.OBJ)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
-- [Debanding Material Shader](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
-- [Dijkstra map for Godot](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
 - [Code Snapshot](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
+- [Debanding Material Shader](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
 - [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
 - [Dialogic](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+- [Dijkstra map for Godot](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
+- [Discord.gd](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 - [Funexpected Flash Tools](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 - [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
