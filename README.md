@@ -275,7 +275,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Voxelman](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability (Godot 3.2+, 4.0).
 
 #### Godot 4.0
-
+- [FMOD GD4](https://github.com/summertimejordi/fmod_gd4) - Godot 4 integration of the FMOD Studio API
 - [Godex](https://github.com/GodotECS/godex) - An entity component system library.
 
 #### Godot 3.2+
