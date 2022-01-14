@@ -276,6 +276,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4.0
 
+- [FMOD GD4](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 - [Godex](https://github.com/GodotECS/godex) - An entity component system library.
 
 #### Godot 3.2+
