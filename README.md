@@ -112,7 +112,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
-- [Godot FPS Camera](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS camera with jumping and movement.
+- [Godot First Person Camera](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS camera with jumping, movement and flashlight (light cookie).
 - [Godot Game Of Life](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 - [Minimum Game](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
