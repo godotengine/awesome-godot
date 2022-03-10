@@ -362,7 +362,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 - [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
 
-
 ## Other
 
 *Other stuff.*
