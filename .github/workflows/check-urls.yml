@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Check link validity
-        uses: lycheeverse/lychee-action@v1.3.0
+        uses: lycheeverse/lychee-action@v1.4.1
 
       - name: Fail if there were link errors
         run: exit ${{ steps.lc.outputs.exit_code }}
