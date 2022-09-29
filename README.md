@@ -303,6 +303,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 - [Speech to Text](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+- [spout-gd](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout](https://github.com/leadedge/Spout2).
 
 #### Godot 3.1
 
