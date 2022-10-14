@@ -110,6 +110,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Projects to use as a base for your own games.*
 
+#### Godot 3.5+
+
+- [bendn's Godot Template](https://github.com/bend-n/godot-template) - Game template using the [gpm](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
+
 #### Godot 3.2+
 
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
@@ -156,7 +160,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Tutorials
 
-> [**Notice:** *The list of tutorials has moved to the Godot documentation.*](https://docs.godotengine.org/en/latest/community/tutorials.html)
+> **Note**
+>
+> The [list of tutorials](https://docs.godotengine.org/en/latest/community/tutorials.html) has moved to the Godot documentation.
 
 ## Plugins and scripts
 
@@ -354,6 +360,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - Mainly master branch, other branches can be found [here](https://archive.hugo.pro/builds/godot/).
 - [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - Distributed via Itch.io (automatic updates with [app](https://itch.io/app)), master branch only.
 - [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
+- [bend-n's 2D builds](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 
 ## Bash scripts
 
@@ -380,7 +387,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
+- [godot-actions](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
+- [Godot Package Manager](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
