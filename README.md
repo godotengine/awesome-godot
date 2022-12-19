@@ -384,6 +384,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *Other stuff.*
 
 - [codetranslator](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
+- [crunch-gd](https://github.com/jordigcs/crunch-gd) - A CLI texture packer for Godot. Automatically creates AtlasTexture resources from generated spritesheet. Supports 3.0-4.x.
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
