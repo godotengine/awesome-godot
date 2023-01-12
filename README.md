@@ -98,6 +98,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
+#### Godot 3.5+
+
+ - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed. Built using Godot and open source. Windows & Linux binaries available.
+
 #### Godot 3.2+
 
 - [Arrow](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
