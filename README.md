@@ -255,6 +255,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game.
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
 - [Waterways](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
+- [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games.
 
 #### Godot 3.1
