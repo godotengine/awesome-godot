@@ -256,8 +256,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
 - [Waterways](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
 - [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
+- [XSM](https://gitlab.com/atnb/xsm) - A fully-featured hierarchical State Machine with parallel states, easy animation, random states and more.
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - An integrated editor for creating visual novel games.
-- [XSM](https://gitlab.com/atnb/xsm) - A fully featured hierarchical Statem Machine with parallel states, easy animation or random states and more
 
 #### Godot 3.1
 
