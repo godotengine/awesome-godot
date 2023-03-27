@@ -99,9 +99,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
+#### Godot 4.0
+
+- [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+
 #### Godot 3.5+
 
- - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+- [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 
 #### Godot 3.2+
 
@@ -294,6 +298,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs (Godot 3.2, 4.0).
 - [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+- [godot-luaAPI](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua (Godot 3.2+, 4.0).
 - [godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds (Godot 3.1+).
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
