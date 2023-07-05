@@ -37,6 +37,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Falling Square](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+- [Sleuth](https://codeberg.org/BWPanda/sleuth) - A single-player logic puzzle game.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
 - [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
