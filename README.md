@@ -105,6 +105,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
+- [GodSVG](https://github.com/MewPurPur/GodSVG) - A tool to create optimized Scalable Vector Graphics files.
+
 #### Godot 3.5+
 
 - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
