@@ -31,6 +31,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 2D
 
+#### Godot 4
+
+- [YouTD 2](https://github.com/Praytic/youtd2) - Classic community-driven session-based Tower Defense with RPG elements. 
+
 #### Godot 3.2+
 
 - [Everplast](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
