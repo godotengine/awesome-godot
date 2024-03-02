@@ -230,6 +230,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (Godot 2.x, 3.x).
 - [Simplified Flight Simulation library](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 - [SignalVisualizer](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock (Godot 4.x).
+- [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
@@ -275,7 +276,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Qodot](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 - [Scatter](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 - [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
-- [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool.
 - [Tree generator](https://github.com/Zylann/godot_tree_generator_plugin) - Tool for generating trees.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - Voxel-based volumetric lighting and fog plugin.
