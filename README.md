@@ -233,6 +233,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) - Import maps from [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - Quickly build tilesets with style (Godot 3.x).
+- [GodoTeX](https://github.com/file-acomplaint/GodoTeX) - Rendering LaTeX-like math expressions inside Godot (Godot 3.x).
+- [Super Scaling](https://github.com/cybereality/godot-super-scaling) - Computationally inexpensive Viewport Scaling (Godot 3.x).
 
 #### Godot 4.2+
 
