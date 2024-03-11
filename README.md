@@ -42,6 +42,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
+- [Sleuth](https://codeberg.org/BWPanda/sleuth) - A single-player logic puzzle game.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - Fast-paced local party game with starships that battle in a top-down arena.
 - [TuxBuilder](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
