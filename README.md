@@ -416,7 +416,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 - [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 - [Godotes](https://godotes.com/) - Weekly micro data analysis reports about the Godot engine and its ecosystem.
-- [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
 ## Other
 
