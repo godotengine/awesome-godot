@@ -434,3 +434,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 - [Godot Package Manager](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 - [zfoo](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+
+## Contributors
+
+[![Contributors image](https://contrib.rocks/image?repo=godotengine/awesome-godot&max=2000&columns=15)](https://github.com/godotengine/awesome-godot/graphs/contributors)
+
+Made with [contrib.rocks](https://contrib.rocks).
