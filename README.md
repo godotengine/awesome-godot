@@ -40,6 +40,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Everplast](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 - [Falling Square](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 - [Flappy Race](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
+- [Lemmings](https://github.com/colinbellino/lemmings) - A small prototype trying to recreate the Lemmings game
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
