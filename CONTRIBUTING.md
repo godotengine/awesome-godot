@@ -7,5 +7,6 @@
 - Follow the existing style.
 - Sort in alphabetical order.
 - Sort by Godot version.
+- Projects related to cryptocurrency or NFT integrations are not allowed, for reasons including (but not limited to) the risk of scams.
 
 If you don't know how to use pull requests, you can also create an issue.
