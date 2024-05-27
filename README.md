@@ -34,6 +34,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 4.2
 
 - [Poder Solar](https://github.com/antimundo/poder-solar) - Simple resource management game.
+- [A Dark Forest](https://github.com/antimundo/poder-solar) - Minimalistic incremental game inspired by "A Dark Room".
 
 #### Godot 3.2+
 
