@@ -83,7 +83,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4.2
 
-- [LibreAim](https://github.com/antimundo/libre-aim) - Libre FPS aim trainer made with Godot.
+- [LibreAim](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 
 #### Godot 3.2+
