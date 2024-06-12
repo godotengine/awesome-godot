@@ -161,6 +161,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
+#### Godot 4.1
+
+- [Godot Tweens Comparison](https://github.com/popcar2/Godot_Tween_Comparisons) - Unofficial demo for visually comparing Tweens in Godot with various examples.
+
 #### Godot 3.2+
 
 - [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
