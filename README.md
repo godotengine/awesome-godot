@@ -212,6 +212,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 - [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript (Godot 4.x).
+- [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... (Godot 3.x, 4.x).
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 - [GdUnit4](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
