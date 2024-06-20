@@ -12,6 +12,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
+  - [XR] (#xr)
 - [Projects](#projects)
 - [Templates](#templates)
 - [Demos](#demos)
@@ -107,6 +108,17 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
+### XR
+
+#### Godot 4.1
+
+ - [Piggy rescue](https://github.com/surreal6/piggyRescue) - Fun little example game where you chase and rescue little pigs.
+
+#### Godot 3.5
+
+ - [Beep Saber VR](https://github.com/NeoSpark314/BeepSaber) - Beat saber clone in Godot.
+ - [Friday Night Funkin`](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
+
 ## Projects
 
 *Non-game Open source projects made with Godot (tools/utilities).*
@@ -136,6 +148,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4.2+
 
+- [Godot XR Template](https://github.com/godotVR/godot-xr-template) - Template for a multi level XR game
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 #### Godot 3.5+
@@ -248,6 +261,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [AnimatedShape2D](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
+- [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development
 - [LimboAI](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
