@@ -161,6 +161,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
+#### Godot 4.x
+
+- [Kaleidoscope](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+
 #### Godot 3.2+
 
 - [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
