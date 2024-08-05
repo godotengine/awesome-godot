@@ -34,6 +34,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 4.2
 
 - [Poder Solar](https://github.com/antimundo/poder-solar) - Simple resource management game.
+- [Super Practica](https://codeberg.org/superpractica/superpractica) - A game designed to optimize building expertise in mathematics.
 
 #### Godot 3.2+
 
