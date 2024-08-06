@@ -253,6 +253,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [AnimatedShape2D](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 - [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
+- [Dialogue Engine](https://github.com/Rubonnek/dialogue-engine) - A minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [LimboAI](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
