@@ -34,6 +34,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 4.2
 
 - [Poder Solar](https://github.com/antimundo/poder-solar) - Simple resource management game.
+- [Dot Hop](https://github.com/russmatney/dothop) - Simple grid-based path puzzles.
 
 #### Godot 3.2+
 
@@ -256,6 +257,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Dialogue Engine](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [LimboAI](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
+- [Log.gd](https://github.com/russmatney/log.gd) - A pretty-printer - add type-aware color, indentation, and line numbers to your print statements.
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
