@@ -81,6 +81,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 3D
 
+#### Godot 4.3
+
+- [re3-gd](https://github.com/FOSS-Supremacy/re3-gd) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+
 #### Godot 4.2
 
 - [LibreAim](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
