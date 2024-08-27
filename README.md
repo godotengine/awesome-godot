@@ -12,7 +12,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Games](#games)
   - [2D](#2d)
   - [3D](#3d)
-  - [XR] (#xr)
+  - [XR](#xr)
 - [Projects](#projects)
 - [Templates](#templates)
 - [Demos](#demos)
