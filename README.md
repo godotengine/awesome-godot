@@ -32,16 +32,18 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ### 2D
 
-#### Godot 4.2
+#### Godot 4.0+
 
+- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://github.com/antimundo/poder-solar) - Simple resource management game.
+- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3.2+
 
+- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game.
 - [Everplast](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 - [Falling Square](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 - [Flappy Race](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
-- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 - [ROTA](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
@@ -55,11 +57,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
 - [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 - [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam.
-- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3.0
 
-- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 
 #### Godot 2.1
@@ -87,19 +87,20 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [LibreAim](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+- [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 4.2
 
 - [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
+- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
+- [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+
 
 #### Godot 3.2+
 
 - [Ball2Box](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 - [Boom](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 - [Broken Seals](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
-- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-- [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
-- [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 3.1
 
