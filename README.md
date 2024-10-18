@@ -199,6 +199,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 - [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... *(Godot 3 and 4)*
 - [GdUnit4](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
+- [GD Data Binding](https://github.com/HotariTobu/gd-data-binding) - Provide data binding function of the MVVM pattern.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
