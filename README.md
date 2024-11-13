@@ -211,6 +211,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 - [Orchestrator](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 - [PixelPen](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+- [Quest Manager](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 - [QuestSystem](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 - [Shaker](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
