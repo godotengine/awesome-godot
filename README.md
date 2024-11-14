@@ -126,6 +126,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 - [Godello](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+- [SimulaVR](https://github.com/SimulaVR/Simula) - A VR window manager for Linux, built on top of Godot engine.
 - [vpuppr](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ## Templates
