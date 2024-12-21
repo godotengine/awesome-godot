@@ -80,6 +80,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 4
 
 - [LibreAim](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
+- [open-fpsz](https://gitlab.com/open-fpsz/open-fpsz) - An open-source, fast-paced multiplayer shooter game inspired by Tribes, with jetpacks, skis and vehicles.
 - [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 - [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 - [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
