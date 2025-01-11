@@ -20,7 +20,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Plugins and scripts](#plugins-and-scripts)
 - [Modules](#modules)
 - [GDScript/C# editor support](#gdscriptc-editor-support)
-- [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
+- [Themes](#themes)
+  - [Engine themes](#engine-themes)
+  - [Syntax themes](#syntax-themes)
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Bash scripts](#bash-scripts)
 - [Websites](#websites)
@@ -391,7 +393,16 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
   - [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
   - [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code.
 
-## Godot script editor syntax themes
+## Themes
+
+### Engine themes
+
+*Alternative themes for the entire Godot engine editor.*
+
+- [Catppuccin Theme](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+- [Godot Minimal Theme](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
+
+### Syntax themes
 
 *Alternative themes for the built-in script editor.*
 
