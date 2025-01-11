@@ -23,7 +23,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Themes](#themes)
   - [Engine themes](#engine-themes)
   - [Syntax themes](#syntax-themes)
-<!-- - [Godot script editor syntax themes](#godot-script-editor-syntax-themes) -->
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Bash scripts](#bash-scripts)
 - [Websites](#websites)
@@ -399,8 +398,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Alternative themes for the entire Godot engine editor.*
 
-- [Godot Minimal Theme](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 - [Catppuccin Theme](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+- [Godot Minimal Theme](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 
 ### Syntax themes
 
