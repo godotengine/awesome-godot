@@ -210,6 +210,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+- [Health, HitBoxes, HurtBoxes, and HitScans](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
 - [Icon Explorer](https://kenyoni-software.github.io/godot-addons/addons/icon_explorer) - Browse and save icons from popular icon collections.
 - [Importality](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others.
