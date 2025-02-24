@@ -164,6 +164,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 4
 
 - [Kaleidoscope](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+- [PlaneShooter](https://github.com/sarooptech/PlaneShooter) - A 2D demo game to learn Godot 4.
 
 #### Godot 3
 
