@@ -213,6 +213,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot NDI](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
 - [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+- [GodotSx](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
 - [Health, HitBoxes, HurtBoxes, and HitScans](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
 - [Icon Explorer](https://kenyoni-software.github.io/godot-addons/addons/icon_explorer) - Browse and save icons from popular icon collections.
@@ -228,6 +229,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [PixelPen](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
 - [QR Code](https://kenyoni-software.github.io/godot-addons/addons/qr_code) - QR Code generation either with the included QRCodeRect node or use the encoding result of the QRCode class.
 - [Quest Manager](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
+- [Questify](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
 - [QuestSystem](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 - [Shaker](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
