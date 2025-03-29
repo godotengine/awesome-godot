@@ -239,6 +239,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [System Bar Color Changer](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
 - [Talo](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
 - [TerraBrush](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
+- [ThemeGen](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
 - [Virtual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
 - [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
