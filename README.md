@@ -404,7 +404,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
   - [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
   - [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
   - [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
-  - [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code.
+  - [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=EddieDover.gdscript-formatter-linter) - Formatter for GDScript in Visual Studio Code.
 
 ## Themes
 
