@@ -456,6 +456,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-actions](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter.
+- [godot-launcher](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 - [Godot Package Manager](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
