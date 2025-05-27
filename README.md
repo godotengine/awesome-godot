@@ -139,6 +139,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4
 
+- [COGITO](https://github.com/Phazorknight/Cogito) - First Person Immersive Sim Template Project, providing a framework for creating interactable objects, various items to use and mechanics to influence the player and game environment.
+- [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+- [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 - [Godot XR Template](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 - [MechanicalFlower Godot Template](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
@@ -147,12 +151,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3
 
 - [bendn's Godot Template](https://github.com/bend-n/godot-template) - Game template using the [gpm](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
-- [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
-- [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 - [Godot First Person Camera](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 - [Godot FPS Template](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 - [Godot Game Of Life](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
-- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 - [Minimum Game](https://github.com/benmarz/minimum_game) - Template top-down 2D pixel art game, with multiple rooms, a HUD, menus, and autosaving.
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - Multiplayer first person shooter example project.
 - [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) - Multiplayer third person shooter example project.
