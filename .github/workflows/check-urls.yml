@@ -3,20 +3,20 @@ on:
   push:
   pull_request:
   schedule:
-    # Every day at midnight (UTC).
+    # Every Friday at 15:35 (UTC).
     # URLs can decay over time. Setting up a schedule makes it possible to be warned
     # about dead links as soon as possible.
-    - cron: "0 0 * * *"
+    - cron: "35 15 * * FRI"
 
 jobs:
   check-urls:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Check link validity
-        uses: lycheeverse/lychee-action@v1.5.0
+        uses: lycheeverse/lychee-action@v2.4.0
 
       - name: Fail if there were link errors
         run: exit ${{ steps.lc.outputs.exit_code }}

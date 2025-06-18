@@ -1,0 +1,32 @@
+# Don't read Godot's own URL schemes as web URLs.
+user:\/\/.*
+res:\/\/.*
+uid:\/\/.*
+
+# Don't read WebSockets or TCP URLs as web URLs.
+ws(s?):\/\/.*
+tcp:\/\/.*
+
+# Security checks prevent checking the URLs of these websites automatically,
+# typically returning 403 errors.
+.*asecuritysite\.com.*
+.*intel\.com.*
+.*reddit\.com.*
+.*inkscape.org.*
+.*computerhope.com*
+
+# Don't check URLs from these websites due to frequent rate limits (error 429) or timeouts.
+.*adobe\.com.*
+.*gamedevartisan\.com.*
+.*github\.com.*
+.*gnu\.org.*
+.*loopit\.dk.*
+.*meta\.com.*
+.*sourceforge\.io.*
+
+# Not a valid URL with the GET method, which lychee always sends.
+# Mentioned in the class reference.
+.*httpbin\.org\/post
+
+# Class reference mentions `example.com/index.php` in an example, which is 404.
+.*example\.com.*
