@@ -140,7 +140,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [COGITO](https://github.com/Phazorknight/Cogito) - First Person Immersive Sim Template Project, providing a framework for creating interactable objects, various items to use and mechanics to influence the player and game environment.
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
-- [C# Godot Template](https://github.com/CSharpGodotTools/Template) - C# Template with your typical UI scenes, debugging tools, utility scripts and a framework for ENet multiplayer.
+- [C# Godot Template](https://github.com/CSharpGodotTools/Template) - C# template with your typical UI scenes, debugging tools, utility scripts and a framework for ENet multiplayer.
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 - [Godot XR Template](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
