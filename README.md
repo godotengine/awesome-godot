@@ -227,7 +227,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
-- [GodotSx](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
+- [GodotSx](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in 
+signals.
+- [GodotVMF](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine/Redot Engine. Valve map format from Hammer editor.
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
 - [HCoroutines](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
 - [Health, HitBoxes, HurtBoxes, and HitScans](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
