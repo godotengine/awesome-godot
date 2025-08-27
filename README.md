@@ -219,6 +219,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [func_godot](https://github.com/func-godot/func_godot_plugin) - Import maps using the [Quake MAP file format](https://quakewiki.org/wiki/Quake_Map_Format), commonly made using an editor such as [TrenchBroom](https://trenchbroom.github.io/).
 - [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 - [GdUnit4](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
+- [GD Data Binding](https://github.com/HotariTobu/gd-data-binding) - Provide data binding function of the MVVM pattern.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
 - [Godot NDI](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
