@@ -435,7 +435,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
-- [bend-n's 2D builds](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) with [these modules disabled](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+- [bend-n's 2D builds](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/engine_details/development/compiling/optimizing_for_size.html) with [these modules disabled](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
 
 ## Bash scripts
 
