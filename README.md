@@ -408,7 +408,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *Add-ons for text editors that implement GDScript or C# support.*
 
-- [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 - [Emacs](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 - [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
