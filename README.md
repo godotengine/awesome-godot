@@ -445,6 +445,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 ### External editor themes
 
 *Alternative themes with the trusted Godot editor's colors for external tools.*
+
 - [NeoVim - godot_color_theme](https://github.com/voylin/godot_color_theme/tree/master/lua).
 - [Alacritty - godot_color_theme](https://github.com/voylin/godot_color_theme/tree/master/alacritty).
 
