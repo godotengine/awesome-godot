@@ -443,6 +443,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
+### External editor themes
+
+*Alternative themes with the trusted Godot editor's colors for external tools.*
+
+- [Alacritty](https://github.com/voylin/godot_color_theme/tree/master/alacritty)
+- [NeoVim](https://github.com/voylin/godot_color_theme/tree/master/lua)
+- [Visual Studio Code](https://github.com/ryanabx/godot-vscode-theme)
+
 ## Unofficial Godot builds
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
