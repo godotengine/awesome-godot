@@ -450,6 +450,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Alacritty](https://github.com/voylin/godot_color_theme/tree/master/alacritty)
 - [NeoVim](https://github.com/voylin/godot_color_theme/tree/master/lua)
 - [Visual Studio Code](https://github.com/ryanabx/godot-vscode-theme)
+- [Zed](https://github.com/D4r3NPo/zed-godot-theme)
 
 ## Unofficial Godot builds
 
