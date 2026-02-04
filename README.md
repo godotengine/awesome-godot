@@ -259,6 +259,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [PlayerConnect](https://github.com/rayzorite/PlayerConnect) - Bug/feedback reporting system for your Godot game. It uses a Discord webhook as a medium to send reports to your desired Discord channel.
 - [PowerKey](https://github.com/phosxd/PowerKey) - Easy-to-use dynamic translation of text & other variables. Also offers GDScript execution on Nodes, without needing to attach a script.
 - [ProtonScatter](https://github.com/HungryProton/scatter) - Automates the positioning of assets in a scene.
+- [Project DJ Godot](https://github.com/Rliop913/Project_DJ_Godot) - integrated, production‑ready engine combining rhythm game mechanics, DJ performance tools, and digital audio workstation features into a single soft real‑time C++ system. supports c++, C#, python, GDScript
 - [QR Code](https://kenyoni-software.github.io/godot-addons/addons/qr_code) - QR Code generation either with the included QRCodeRect node or use the encoding result of the QRCode class.
 - [Quest Manager](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 - [Questify](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
