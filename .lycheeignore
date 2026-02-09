@@ -30,3 +30,6 @@ tcp:\/\/.*
 
 # Class reference mentions `example.com/index.php` in an example, which is 404.
 .*example\.com.*
+
+# Ignore npm packages as their Cloudflare config blocks normal CI pinging
+https://www\.npmjs\.com/package/[a-zA-Z0-9@/._-]+
