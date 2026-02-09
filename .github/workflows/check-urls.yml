@@ -20,3 +20,13 @@ jobs:
 
       - name: Fail if there were link errors
         run: exit ${{ steps.lc.outputs.exit_code }}
+
+      - name: Check npm packages manually
+        run: |
+          grep -oE 'https://www\.npmjs\.com/package/[a-zA-Z0-9@/._-]+' README.md | sort -u | while read -r url; do \
+            registry=$(echo "$url" | sed 's#https://www\.npmjs\.com/package/#https://registry.npmjs.org/#g')
+            status=$(curl -w "%{http_code}" -o /dev/null -s -L "$registry"); echo -n "Checking $url... "
+            if [[ "$status" -eq 404 ]]; then
+                echo "Status code: $status"; exit 1; \
+            fi; echo "Found!"
+          done
