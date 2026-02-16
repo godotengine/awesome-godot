@@ -468,6 +468,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - Script that helps Debian and Ubuntu users install and use Godot.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
+- [Cross-Compile-Godot](https://github.com/Aeonitis/Cross-Compile-Godot) - Script(s) to compile Godot from one host OS/Architecture to a another target OS/Architecture e.g. Steamdeck.
 
 ## Websites
 
