@@ -420,6 +420,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 - [GNU Nano](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
+- [Neovim](https://github.com/Mathijs-Bakker/godotdev.nvim) - A batteries-included Neovim plugin for Godot 4.x game development. Use Neovim as a fully featured external editor for Godot, with minimal setup.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 - Visual Studio Code
