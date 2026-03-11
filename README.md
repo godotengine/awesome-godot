@@ -127,6 +127,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
 - [ProtonGraph](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
+- [Text Forge](https://github.com/text-forge/text-forge) - Modular and highly extendable code editor. Supports a lot of languages and file types with simple but powerful extension making system.
 
 #### Godot 3
 
