@@ -7,6 +7,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 Looking for third-party programming language support in Godot?
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Godot game development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Games](#games)
