@@ -149,6 +149,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [MechanicalFlower Godot Template](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 - [Takin Godot Template](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+- [Godot 4 Custom Gravity](https://github.com/Ivorforce/Godot4-Custom-Gravity) - Template for a 3D project with planetary gravity (Super Mario Galaxy - like). Supports any planet shapes using signed distance fields. Includes a character controller and various sample setups.
 
 #### Godot 3
 
