@@ -495,3 +495,4 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [ShipThis](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 - [zfoo](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+- [Godot Awesome Scientific](https://github.com/Ivorforce/Awesome-Godot-Scientific/) - A community-curated list of Godot software that provides methods for scientific methods, machine learning, and hyperoptimized computation.
