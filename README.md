@@ -126,6 +126,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Lorien](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 - [Material Maker](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
+- [Wick](https://github.com/buildepicshit/Wick) - Native C# MCP server connecting AI coding assistants to a running Godot editor. 53 tools for exception telemetry, scene inspection, C# analysis, builds, and GDScript validation.
 - [ProtonGraph](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 #### Godot 3
