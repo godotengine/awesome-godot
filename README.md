@@ -267,6 +267,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Questify](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
 - [QuestSystem](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 - [Quill-IDE](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
+- [rclgd](https://github.com/Ozuba/rclgd) - A ROS2 client library for gdscript & godot support for the ROS ecosystem.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
 - [Roommate](https://github.com/hoork/roommate) - 3D level builder tool with focus on creating indoors environment and automation.
 - [Scene Library](https://github.com/4d49/scene-library) - A tool for organizing Godot scenes with efficiency.
