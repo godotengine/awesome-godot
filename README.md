@@ -228,6 +228,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Gedis](https://github.com/NodotProject/Gedis) - In-memory, Redis-like key-value store for Godot.
 - [GedisQueue](https://github.com/NodotProject/GedisQueue) - A comprehensive job queue system for Godot, backed by Gedis.
 - [Godot Doctor](https://github.com/codevogel/godot_doctor) - A powerful validation plugin for Godot that catches errors in scenes and resources before they reach runtime. Also supports type validation for `PackedScene`s.
+- [Godot Project Doctor Mini](https://github.com/Vav-Labs/godot-project-doctor-mini) - Editor plugin that scans a project and generates Markdown and JSON diagnostic reports covering missing scripts, broken resource paths, oversized textures, heavy scenes, and export readiness.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
 - [Godot NDI](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
