@@ -10,14 +10,16 @@ tcp:\/\/.*
 # Security checks prevent checking the URLs of these websites automatically,
 # typically returning 403 errors.
 .*asecuritysite\.com.*
-.*intel\.com.*
-.*reddit\.com.*
-.*inkscape.org.*
 .*computerhope.com*
+.*inkscape.org.*
+.*intel\.com.*
+.*itch\.io.*
+.*reddit\.com.*
 
 # Don't check URLs from these websites due to frequent rate limits (error 429) or timeouts.
 .*adobe\.com.*
 .*gamedevartisan\.com.*
+.*gitee\.com.*
 .*github\.com.*
 .*gnu\.org.*
 .*loopit\.dk.*
