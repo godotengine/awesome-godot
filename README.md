@@ -282,6 +282,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Sprouty Dialogs](https://github.com/SproutyLabs/SproutyDialogs) - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 - [Subtitles Importer](https://github.com/Rubonnek/subtitles-importer) - A comprehensive subtitle parser supporting 15+ subtitle formats (SRT, VTT, SSA/ASS, SBV, and more) with runtime parsing, time-based queries, and AnimationPlayer integration.
 - [System Bar Color Changer](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
+- [Sketchfab](https://github.com/StrayEddy/sketchfab-godot-plugin?tab=License-1-ov-file) - A plugin that you can easily import model from Sketchfab from Godot
 - [Talo](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
 - [TerraBrush](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 - [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable 3D terrain system.
