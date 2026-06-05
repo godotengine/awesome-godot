@@ -479,6 +479,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 ## Websites
 
 - [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
+- [Godot Asset Store](https://store.godotengine.org/) - Official Godot Asset Store. A modern replacement for the Godot Asset Library. 
 - [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 
 ## Other
