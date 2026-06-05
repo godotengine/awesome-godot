@@ -90,6 +90,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
 - [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 - [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
+- [VitaVehicle](https://jreo.itch.io/rcp4) - An open-source raycast-based car simulator that simulates engine, transmission, and slip algorithm.
 
 #### Godot 3
 
