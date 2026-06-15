@@ -1,0 +1,32 @@
+name: 🌐 Check URLs
+on:
+  push:
+  pull_request:
+  schedule:
+    # Every Friday at 15:35 (UTC).
+    # URLs can decay over time. Setting up a schedule makes it possible to be warned
+    # about dead links as soon as possible.
+    - cron: "35 15 * * FRI"
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-24.04
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - name: Check link validity
+        uses: lycheeverse/lychee-action@v2.4.0
+
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lc.outputs.exit_code }}
+
+      - name: Check npm packages manually
+        run: |
+          grep -oE 'https://www\.npmjs\.com/package/[a-zA-Z0-9@/._-]+' README.md | sort -u | while read -r url; do \
+            registry=$(echo "$url" | sed 's#https://www\.npmjs\.com/package/#https://registry.npmjs.org/#g')
+            status=$(curl -w "%{http_code}" -o /dev/null -s -L "$registry"); echo -n "Checking $url... "
+            if [[ "$status" -eq 404 ]]; then
+                echo "Status code: $status"; exit 1; \
+            fi; echo "Found!"
+          done
