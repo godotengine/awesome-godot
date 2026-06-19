@@ -423,7 +423,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Emacs](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 - [Geany](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
-- [Zed](https://github.com/GDQuest/zed-gdscript) - Syntax highlighting, autocompletion, LSP (jump-to-definition, hover, references, linting), code formatting, and debugging. Supports Godot 3.x and 4.x.
+- [Zed](https://github.com/GDQuest/zed-gdscript) - Syntax highlighting, autocompletion, LSP (jump-to-definition, hover, references, linting), code formatting, and debugging. Supports 3.x and 4.x.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 - [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 - [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
