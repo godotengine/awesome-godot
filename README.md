@@ -506,3 +506,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [ShipThis](https://github.com/shipth-is/cli) - CLI to build and publish Godot mobile games to the App Store and Google Play.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 - [zfoo](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon (paint-based hide-and-seek Steam game). 50+ hiding spot atlas with color analysis, bilingual (EN/中文). GitHub: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
