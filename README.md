@@ -379,6 +379,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs. *(Godot 3 and 4)*
 - [FMOD GD4](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
+- [GDTinyCC](https://github.com/system-er/gdtinycc) - C compiler (TinyCC) integrated as GDExtension. compiling real C code directly inside Godot.
 - [Godex](https://github.com/GodotECS/godex) - An entity component system library.
 - [GodotHook](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
 - [godot-jolt](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine](https://github.com/jrouwe/JoltPhysics).
