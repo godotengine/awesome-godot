@@ -240,7 +240,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Torrent](https://github.com/NodotProject/godot-torrent) - A comprehensive BitTorrent GDExtension for Godot 4, providing full protocol functionality with native C++ performance.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
 - [GodotSx](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
-- [Godotty](https://github.com/ingur/godotty) - Full-featured terminal emulator for the editor and games, powered by [libghostty](https://ghostty.org).
+- [Godotty](https://github.com/ingur/godotty) - Full-featured terminal for the editor and tools, powered by [libghostty](https://ghostty.org).
 - [GodotVMF](https://github.com/H2xDev/GodotVMF) - A VMF/MDL/VTF/VMT importer for Godot Engine (Valve map format from Hammer editor).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
 - [HCoroutines](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
