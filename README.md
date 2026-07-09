@@ -26,7 +26,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Unofficial Godot builds](#unofficial-godot-builds)
 - [Bash scripts](#bash-scripts)
 - [Websites](#websites)
-- [PlayPokiGame](https://playpokigame.com) - Curated Poki-style mini games online — racing, shooting, casual, and puzzle titles. Fast loading, clean UI, play free...
+- [ArcadeGames](https://arcade-games.org) - Play classic and modern arcade games free in your browser — shooters, platformers, retro titles, and more. No downloa...
 - [Other](#other)
 
 ## Games
