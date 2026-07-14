@@ -247,6 +247,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GUT](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
 - [HCoroutines](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
 - [Health, HitBoxes, HurtBoxes, and HitScans](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
+- [Hera Agent Godot](https://github.com/NotNull92/hera-agent-godot) - Drive a live Godot editor from the command line: inspect scenes, edit nodes, run the game and read logs. Built for AI coding agents.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
 - [Icon Explorer](https://kenyoni-software.github.io/godot-addons/addons/icon_explorer) - Browse and save icons from popular icon collections.
 - [Importality](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others.
